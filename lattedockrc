@@ -1,0 +1,31 @@
+[DownloadDialog Settings]
+Height 1080=472
+Width 1920=700
+
+[PlasmaRunnerManager]
+LaunchCounts=1 services_org.kde.ktorrent.desktop,1 services_org.kde.latte-dock.desktop,1 services_kcm_energyinfo.desktop,1 services_org.freedesktop.IBus.Setup.desktop,1 services_powerdevilglobalconfig.desktop,2 services_kcm_kscreen.desktop,2 services_systemsettings.desktop,1 services_kcm_networkmanagement.desktop,3 services_libreoffice-calc.desktop,3 services_org.kde.elisa.desktop,1 services_wps-office-prometheus.desktop,3 services_org.kde.kile.desktop,6 services_org.kde.kalarm.desktop,1 services_org.kde.kdeconnect.app.desktop,3 services_thunderbird.desktop,1 services_kcm_pulseaudio.desktop,5 services_telegramdesktop.desktop,1 services_pycharm-community_pycharm-community.desktop,1 services_powerdevilactivitiesconfig.desktop,2 services_org.kde.kate.desktop,1 services_powerdevilprofilesconfig.desktop,1 shell_date
+pluginWhiteList=services,desktopsessions,PowerDevil,calculator,unitconverter,shell,bookmarks,baloosearch,locations
+
+[PlasmaThemeExtended]
+outlineWidth=1
+
+[ScreenConnectors]
+10=HDMI-1
+11=eDP-1
+12=DP-1
+
+[UniversalSettings]
+badges3DStyle=false
+canDisableBorders=false
+currentLayout=My Layout
+downloadWindowSize=800,550
+lastNonAssignedLayout=My Layout
+launchers=applications:firefox.desktop,applications:org.kde.dolphin.desktop
+layoutsColumnWidths=112,77,62,0
+layoutsWindowSize=700,587
+memoryUsage=0
+metaPressAndHoldEnabled=true
+mouseSensitivity=2
+screenTrackerInterval=2500
+showInfoWindow=true
+version=2

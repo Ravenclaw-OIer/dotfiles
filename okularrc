@@ -1,0 +1,26 @@
+[Desktop Entry]
+FullScreen=false
+
+[KFileDialog Settings]
+Recent Files[$e]=2019年江苏初赛（精校版）参考答案.pdf,file:$HOME/.wine/drive_c/users/shushang/My Documents/WeChat Files/ravenclaw33550336/FileStorage/File/2020-06/江苏初赛/2017年江苏初赛（精校版）参考答案.pdf,file:$HOME/.wine/drive_c/users/shushang/My Documents/WeChat Files/ravenclaw33550336/FileStorage/File/2020-06/江苏初赛/2019年江苏初赛（精校版）参考答案.pdf
+Recent URLs[$e]=file:$HOME/.wine/drive_c/users/shushang/My Documents/WeChat Files/ravenclaw33550336/FileStorage/File/2020-06/江苏初赛/
+detailViewIconSize=0
+
+[MainWindow]
+Height 1080=1052
+Height 1200=1172
+Height 1920=1892
+Height 768=740
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAB0MAAAP2AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1200=1200
+Width 1366=1305
+Width 1920=1859
+Window-Maximized 1080x1920=true
+Window-Maximized 1200x1920=true
+Window-Maximized 768x1366=true
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/浅谈 Meta 元素在 ACGN 作品中的应用.pdf
+Name1[$e]=浅谈 Meta 元素在 ACGN 作品中的应用.pdf

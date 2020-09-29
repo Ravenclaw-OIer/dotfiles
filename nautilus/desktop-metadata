@@ -1,0 +1,74 @@
+[directory]
+nautilus-icon-view-keep-aligned=true
+nautilus-icon-view-layout-timestamp=1587702364
+nautilus-desktop-icon-size=48
+
+[trash]
+nautilus-icon-position-timestamp=1587702364
+nautilus-icon-position=212,806
+icon-scale=1
+
+[UUI.volume]
+nautilus-icon-position-timestamp=1585687352
+nautilus-icon-position=56,146
+icon-scale=1
+
+[iPhone.volume]
+nautilus-icon-position=56,1126
+icon-scale=1
+nautilus-icon-position-timestamp=1586151800
+
+[Documents on Sunny的 iPhone.volume]
+nautilus-icon-position=56,846
+icon-scale=1
+nautilus-icon-position-timestamp=1586151800
+
+[OI.volume]
+nautilus-icon-position=56,1366
+icon-scale=1
+nautilus-icon-position-timestamp=1585656018
+
+[161 GB Volume.volume]
+nautilus-icon-position=56,226
+icon-scale=1
+nautilus-icon-position-timestamp=1585752764
+
+[Local Disk.volume]
+nautilus-icon-position=680,946
+icon-scale=1
+nautilus-icon-position-timestamp=1585796321
+
+[ESD-USB.volume]
+nautilus-icon-position=56,486
+icon-scale=1
+nautilus-icon-position-timestamp=1585964804
+
+[Filesystem root.volume]
+nautilus-icon-position=524,26
+icon-scale=1
+nautilus-icon-position-timestamp=1587036708
+
+[efi.volume]
+nautilus-icon-position=524,166
+icon-scale=1
+nautilus-icon-position-timestamp=1587036708
+
+[D.volume]
+nautilus-icon-position=524,286
+icon-scale=1
+nautilus-icon-position-timestamp=1587036708
+
+[Ubuntu 18.04.4 LTS amd64.volume]
+nautilus-icon-position=56,1266
+icon-scale=1
+nautilus-icon-position-timestamp=1587100883
+
+[iPad.volume]
+nautilus-icon-position=56,846
+icon-scale=1
+nautilus-icon-position-timestamp=1587218822
+
+[326 MB Volume.volume]
+nautilus-icon-position=56,1266
+icon-scale=1
+nautilus-icon-position-timestamp=1587702034

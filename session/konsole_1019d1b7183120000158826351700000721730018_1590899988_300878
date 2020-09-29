@@ -1,0 +1,52 @@
+[1]
+Active=4
+Tabs=[{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":1}]},{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":2}]},{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":3}]},{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":4}]},{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":5}]}]
+
+[Number]
+NumberOfSessions=5
+NumberOfWindows=1
+
+[Session1]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=FALLBACK/
+RemoteTab=(%u) %H
+SessionGuid={564e9ccd-c44d-4554-aa5e-5f37f5571bb2}
+WorkingDir[$e]=$HOME
+
+[Session2]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=FALLBACK/
+RemoteTab=(%u) %H
+SessionGuid={13547a45-6e4c-4b02-afc3-a09de024c479}
+WorkingDir[$e]=$HOME/Desktop
+
+[Session3]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=FALLBACK/
+RemoteTab=(%u) %H
+SessionGuid={b880a54f-5241-4ea4-872d-20321e7fc64c}
+WorkingDir[$e]=$HOME/Desktop
+
+[Session4]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=FALLBACK/
+RemoteTab=(%u) %H
+SessionGuid={de844bbc-6473-413b-9cd6-1425f0c8c23f}
+WorkingDir[$e]=$HOME/Documents
+
+[Session5]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=FALLBACK/
+RemoteTab=(%u) %H
+SessionGuid={5db34655-4eb0-45e4-8148-ab74a477ee7b}
+WorkingDir[$e]=$HOME
+
+[WindowProperties1]
+ClassName=Konsole::MainWindow
+ObjectName=MainWindow#1
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAHCAAAABAAAAAQAAAAIAAAACPwAAAAA

@@ -1,0 +1,33 @@
+扩展“Win32 Vector Print”加载失败，原因为：这个扩展只能用于 Windows。  这是由于此扩展包含不正确 .inx 文件索导致的。这可能是 Inkscape 未正确安装导致的。
+扩展“LaTeX”加载失败，原因为：无法满足其中一个依赖项。
+依赖：
+  类型：executable
+  位置：路径
+  字符串：pstoedit
+
+扩展“Sketch Input”加载失败，原因为：无法满足其中一个依赖项。
+依赖：
+  类型：executable
+  位置：路径
+  字符串：skconvert
+
+扩展“GIMP XCF”加载失败，原因为：无法满足其中一个依赖项。
+依赖：
+  类型：executable
+  位置：路径
+  字符串：gimp
+
+扩展“Dia Input”加载失败，原因为：无法满足其中一个依赖项。
+依赖：
+  类型：executable
+  位置：路径
+  字符串：dia
+  描述：要导入 Dia 文件必须安装 Dia。可以通过 http://live.gnome.org/Dia 获取 Dia。
+
+扩展“DXF Output”加载失败，原因为：无法满足其中一个依赖项。
+依赖：
+  类型：executable
+  位置：路径
+  字符串：pstoedit
+  描述：必须安装运行 pstoedit, 参看 http://www.pstoedit.net/pstoeit
+

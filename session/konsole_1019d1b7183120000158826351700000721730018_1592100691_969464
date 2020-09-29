@@ -1,0 +1,101 @@
+[1]
+Active=10
+Tabs=[{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":1}]},{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":2}]},{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":3}]},{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":4}]},{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":5}]},{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":6}]},{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":7}]},{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":8}]},{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":9}]},{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":10}]},{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":11}]}]
+
+[Number]
+NumberOfSessions=11
+NumberOfWindows=1
+
+[Session1]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=FALLBACK/
+RemoteTab=(%u) %H
+SessionGuid={13547a45-6e4c-4b02-afc3-a09de024c479}
+WorkingDir[$e]=$HOME/Desktop
+
+[Session10]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=FALLBACK/
+RemoteTab=(%u) %H
+SessionGuid={5bab6205-fa7d-4036-8806-b31ff31f0fae}
+WorkingDir[$e]=$HOME/Videos/kdenlive
+
+[Session11]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=FALLBACK/
+RemoteTab=(%u) %H
+SessionGuid={7cf6220c-70bd-4a34-b5a1-9edb873ba410}
+WorkingDir[$e]=$HOME/Videos/WC2018_TuiYiDeNi_Video
+
+[Session2]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=FALLBACK/
+RemoteTab=(%u) %H
+SessionGuid={de844bbc-6473-413b-9cd6-1425f0c8c23f}
+WorkingDir[$e]=$HOME/Documents
+
+[Session3]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=FALLBACK/
+RemoteTab=(%u) %H
+SessionGuid={5db34655-4eb0-45e4-8148-ab74a477ee7b}
+WorkingDir[$e]=$HOME
+
+[Session4]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=FALLBACK/
+RemoteTab=(%u) %H
+SessionGuid={27e4d0c0-0852-4d98-b5de-4ce5dc05346a}
+WorkingDir[$e]=$HOME
+
+[Session5]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=FALLBACK/
+RemoteTab=(%u) %H
+SessionGuid={52c72eec-c0cf-4503-8ff3-cb868b81b4a7}
+WorkingDir[$e]=$HOME
+
+[Session6]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=FALLBACK/
+RemoteTab=(%u) %H
+SessionGuid={acf590e9-0f78-475d-b918-cac9e42822a6}
+WorkingDir[$e]=$HOME
+
+[Session7]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=FALLBACK/
+RemoteTab=(%u) %H
+SessionGuid={51a2fcaf-19db-490e-ab7f-e55a7e2c957e}
+WorkingDir[$e]=$HOME
+
+[Session8]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=FALLBACK/
+RemoteTab=(%u) %H
+SessionGuid={7f05a75e-6917-4751-bc04-ba9d5c744390}
+WorkingDir[$e]=$HOME/OI/LibreOJ
+
+[Session9]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=FALLBACK/
+RemoteTab=(%u) %H
+SessionGuid={bbf659d4-1a05-47e6-924c-63e66dfba731}
+WorkingDir[$e]=$HOME/OI/LibreOJ
+
+[WindowProperties1]
+ClassName=Konsole::MainWindow
+ObjectName=MainWindow#1
+State=AAAA/wAAAAD9AAAAAAAABVYAAAKhAAAABAAAAAQAAAAIAAAACPwAAAAA
+Window-Maximized 768x1366=true

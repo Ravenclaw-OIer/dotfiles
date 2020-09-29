@@ -1,0 +1,38 @@
+[1]
+Active=2
+Tabs=[{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":1}]},{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":2}]},{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":3}]}]
+
+[Number]
+NumberOfSessions=3
+NumberOfWindows=1
+
+[Session1]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=$HOME/.local/share/konsole/Profile 2.profile
+RemoteTab=(%u) %H
+SessionGuid={19bcbc87-2ff1-4609-bd04-5ef657d2a914}
+WorkingDir[$e]=$HOME
+
+[Session2]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=$HOME/.local/share/konsole/Profile 2.profile
+RemoteTab=(%u) %H
+SessionGuid={a6f19acf-0ccd-44d6-b95c-7198aa4ea30b}
+WorkingDir[$e]=$HOME
+
+[Session3]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=$HOME/.local/share/konsole/Profile 2.profile
+RemoteTab=(%u) %H
+SessionGuid={d4806eb1-fb49-4fa2-ad12-9c9d556070e7}
+WorkingDir[$e]=$HOME
+
+[WindowProperties1]
+ClassName=Konsole::MainWindow
+MenuBar=Disabled
+ObjectName=MainWindow#1
+State=AAAA/wAAAAD9AAAAAAAAB4AAAASUAAAABAAAAAQAAAAIAAAACPwAAAAA
+Window-Maximized 1200x1920=true

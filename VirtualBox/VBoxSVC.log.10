@@ -1,0 +1,76 @@
+00:00:00.000435 main     VirtualBox XPCOM Server 6.1.4 r136177 linux.amd64 (Feb 18 2020 18:08:45) release log
+00:00:00.000439 main     Log opened 2020-04-11T13:23:27.970322000Z
+00:00:00.000440 main     Build Type: release
+00:00:00.000444 main     OS Product: Linux
+00:00:00.000445 main     OS Release: 5.3.0-46-generic
+00:00:00.000447 main     OS Version: #38~18.04.1-Ubuntu SMP Tue Mar 31 04:17:56 UTC 2020
+00:00:00.000477 main     DMI Product Name: Inspiron 3442
+00:00:00.000488 main     DMI Product Version: Not Specified
+00:00:00.000496 main     Firmware type: UEFI
+00:00:00.000770 main     Secure Boot: Disabled
+00:00:00.000862 main     Host RAM: 7865MB (7.6GB) total, 4981MB (4.8GB) available
+00:00:00.000875 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.000876 main     Process ID: 18026
+00:00:00.000877 main     Package type: LINUX_64BITS_UBUNTU_18_04
+00:00:00.003452 main     IPC socket path: /tmp/.vbox-shushang-ipc/ipcd
+00:00:00.106898 nspr-2   VirtualBox: object creation starts
+00:00:00.107011 nspr-2   Home directory: '/home/shushang/.config/VirtualBox'
+00:00:00.107246 nspr-2   Loading settings file "/home/shushang/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.117918 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp6s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.118455 nspr-2   HostDnsMonitor: initializing
+00:00:00.118708 nspr-2   NAT: resolv.conf: nameserver 127.0.0.53
+00:00:00.118719 nspr-2   NAT: resolv.conf: ignoring "options edns0"
+00:00:00.118736 nspr-2   HostDnsMonitor: updating information
+00:00:00.118841 nspr-2   HostDnsMonitor: old information
+00:00:00.118847 nspr-2     no server entries
+00:00:00.118850 nspr-2     no domain set
+00:00:00.118853 nspr-2     no search string entries
+00:00:00.118855 nspr-2   HostDnsMonitor: new information
+00:00:00.118858 nspr-2     server 1: 127.0.0.53
+00:00:00.118861 nspr-2     domain: padavan
+00:00:00.118864 nspr-2     search string 1: padavan
+00:00:00.122128 nspr-2   VD: VDInit finished with VINF_SUCCESS
+00:00:00.131758 nspr-2   Loading settings file "/home/shushang/VirtualBox VMs/Windows10/Windows10.vbox" with version "1.15-linux"
+00:00:00.134516 nspr-2   VirtualBox: object created
+00:00:00.869089 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:01.235774 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:01.237877 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:02.360655 nspr-2   Launched VM: 1409292624 pid: 18047 (0x467f) frontend: GUI/Qt name: Windows10
+00:00:02.439034 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:02.443906 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:02.792432 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:02.794297 nspr-6   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:03.101405 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:03.102805 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:03.103204 nspr-7   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:00:03.166356 nspr-7   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:03.167392 nspr-7   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:03.353181 nspr-6   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:03.498869 nspr-5   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:03.501738 nspr-5   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:13.043927 nspr-6   Saving settings file "/home/shushang/VirtualBox VMs/Windows10/Windows10.vbox" with version "1.15-linux"
+00:00:13.682041 nspr-6   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:13.685034 nspr-7   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:54.897038 nspr-6   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:54.898672 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:56.213065 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:56.215478 nspr-6   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:01:08.440826 nspr-5   Saving settings file "/home/shushang/VirtualBox VMs/Windows10/Windows10.vbox" with version "1.15-linux"
+00:01:08.463826 nspr-5   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={MachineWrap} aText={Saved screenshot thumbnail data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:01:08.503807 nspr-4   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={MachineWrap} aText={Saved screenshot thumbnail data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:01:08.560275 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:01:08.562713 nspr-5   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:01:08.602800 SaveState Saving settings file "/home/shushang/VirtualBox VMs/Windows10/Windows10.vbox" with version "1.15-linux"
+00:01:08.733457 nspr-7   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:01:08.736789 nspr-5   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:01:09.502429 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:01:09.503714 nspr-5   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:01:15.962584 nspr-6   Saving settings file "/home/shushang/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:01:15.998839 nspr-5   Saving settings file "/home/shushang/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:01:21.539062 main     VirtualBox: object deletion starts
+00:01:21.539147 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/shushang/VirtualBox VMs/Windows10/Windows10.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:01:21.539820 main     HostDnsMonitor: shutting down ...
+00:01:21.556972 main     HostDnsMonitor: shut down
+00:01:21.946611 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:01:26.557135 main     {00007fd658018450} HostPowerServiceLinux::~HostPowerServiceLinux: RTThreadWait() for 5000 ms failed with VERR_TIMEOUT
+00:01:26.557428 main     VirtualBox: object deleted

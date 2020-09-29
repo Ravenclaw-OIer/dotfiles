@@ -1,0 +1,12 @@
+[MainWindow]
+Height 1080=600
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAAyAAAAIdAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1920=800
+
+[SieveEditorMainWidget]
+mainSplitter=444,195
+
+[SieveEditorMainWindow]
+Size=800,600

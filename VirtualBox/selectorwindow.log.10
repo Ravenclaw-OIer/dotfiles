@@ -1,0 +1,43 @@
+00:00:00.749817 VirtualBox GUI VM Selector Window 6.1.4 r136177 linux.amd64 (Feb 18 2020 18:08:45) release log
+00:00:00.749821 Log opened 2020-06-02T15:03:57.570818000Z
+00:00:00.749822 Build Type: release
+00:00:00.749828 OS Product: Linux
+00:00:00.749830 OS Release: 5.4.0-33-generic
+00:00:00.749832 OS Version: #37-Ubuntu SMP Thu May 21 12:53:59 UTC 2020
+00:00:00.749869 DMI Product Name: Inspiron 3442
+00:00:00.749881 DMI Product Version: Not Specified
+00:00:00.749894 Firmware type: UEFI
+00:00:00.750149 Secure Boot: Disabled
+00:00:00.750228 Host RAM: 7865MB (7.6GB) total, 2928MB (2.8GB) available
+00:00:00.750242 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.750243 Process ID: 82025
+00:00:00.750244 Package type: LINUX_64BITS_UBUNTU_18_04
+00:00:00.750288 Qt version: 5.12.8
+00:00:00.788343 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.788428 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:01.991240 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x0 x 1920x1164
+00:00:02.399643 refreshCertificates/#1: InMem.Cert.TbsCertificate.T3.Extensions.papItems[#].ExtnValue.NameConstraints.T0.PermittedSubtrees.papItems[#]: Unexpected sequence type/flags: 0x2/0x80 (expected 0x10/0x20)
+00:00:02.402736 refreshCertificates/#3: Found 1/127 SSL certs we/you trust (previously 1/127).
+00:03:46.248816 GUI: UIMediumEnumerator: Medium with key={{9a5691cb-5b66-4290-93da-ecac1ca2370f}} created
+00:03:46.616433 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:04:27.913849 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:04:31.620614 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:04:31.656167 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:06:31.955653 2D support test succeeded
+00:06:37.460871 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:12:40.809300 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:13:07.838207 GUI: UIMediumEnumerator: Medium with key={{81e8745f-33a0-402b-a14b-8f45aa3f9d54}} created
+00:13:07.898647 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:13:10.180725 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:13:10.226983 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:16:00.389630 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:53:37.254887 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:53:37.278679 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:58:30.950638 GUI: UIMediumEnumerator: Medium with key={{9cd8bf7a-b302-45a4-951e-035ba2cf1458}} created
+00:58:31.185904 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:58:58.171613 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:59:03.009990 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:59:03.074462 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:59:18.666418 GUI: UIMediumEnumerator: Medium-enumeration finished!
+01:00:02.758098 GUI: UIMediumEnumerator: Medium-enumeration finished!
+01:00:02.759978 Log rotated - Log started 2020-06-02T15:03:57.570818000Z

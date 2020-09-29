@@ -1,0 +1,14 @@
+[EmbedSettings]
+embed-application/pdf=false
+embed-application/vnd.oasis.opendocument.presentation=false
+embed-application/vnd.oasis.opendocument.text=false
+embed-application/wps-office.doc=false
+embed-application/wps-office.docx=false
+embed-application/wps-office.pptx=false
+embed-application/x-ole-storage=false
+embed-application/x-wine-extension-qrc=false
+embed-audio/mpeg=false
+embed-audio/x-vorbis+ogg=false
+embed-text/x-c++hdr=false
+embed-text/x-c++src=false
+embed-video/mp4=false

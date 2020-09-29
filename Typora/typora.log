@@ -1,0 +1,412 @@
+INFO 7/4/2020, 10:09:44 PM  luanchFromDiffVersion, pre version is undefined
+INFO 7/4/2020, 10:09:44 PM  overwriteThemeFolder
+INFO 7/4/2020, 10:09:44 PM  ------------------start------------------
+INFO 7/4/2020, 10:09:44 PM  typora version: 0.9.89
+DEBUG 7/4/2020, 10:09:44 PM  [ '/usr/share/typora/Typora', '101962I.md' ]
+DEBUG 7/4/2020, 10:09:44 PM  app.openFile
+INFO 7/4/2020, 10:09:44 PM  addRecentDocument
+INFO 7/4/2020, 10:09:44 PM  [Raven] instanceKey = 475c64bb-169b-4dbd-9c7e-d9b7893a045c
+INFO 7/4/2020, 10:09:44 PM  [Raven] userId = d495cdbd-e048-4d5b-8925-22dc651c3492
+INFO 7/4/2020, 10:09:44 PM  [focus] 1
+INFO 7/4/2020, 10:09:52 PM  ----------------before-quit-----------------
+INFO 7/4/2020, 10:09:52 PM  ------------------will-quit------------------
+INFO 7/4/2020, 10:09:59 PM  ------------------start------------------
+INFO 7/4/2020, 10:09:59 PM  typora version: 0.9.89
+DEBUG 7/4/2020, 10:09:59 PM  [ '/usr/share/typora/Typora' ]
+INFO 7/4/2020, 10:09:59 PM  [Raven] instanceKey = a61a74d5-d5e5-490f-9a66-707ae44dcc0b
+DEBUG 7/4/2020, 10:09:59 PM  app.openFile
+INFO 7/4/2020, 10:09:59 PM  [Raven] userId = d495cdbd-e048-4d5b-8925-22dc651c3492
+INFO 7/4/2020, 10:09:59 PM  [focus] 1
+INFO 7/4/2020, 10:10:54 PM  [blur] 1
+INFO 7/4/2020, 10:11:34 PM  [focus] 1
+DEBUG 7/4/2020, 10:11:34 PM  false
+INFO 7/4/2020, 10:11:34 PM  addRecentDocument
+INFO 7/4/2020, 10:11:37 PM  [blur] 1
+INFO 7/4/2020, 10:11:47 PM  [focus] 1
+INFO 7/4/2020, 10:11:55 PM  [blur] 1
+INFO 7/4/2020, 10:12:15 PM  [focus] 1
+INFO 7/4/2020, 10:12:35 PM  [blur] 1
+INFO 7/5/2020, 12:15:34 AM  [focus] 1
+INFO 7/5/2020, 12:16:21 AM  [blur] 1
+INFO 7/5/2020, 12:17:29 AM  [focus] 1
+INFO 7/5/2020, 12:17:32 AM  [blur] 1
+INFO 7/5/2020, 12:17:41 AM  [focus] 1
+INFO 7/5/2020, 12:18:29 AM  ----------------before-quit-----------------
+INFO 7/5/2020, 12:18:29 AM  ------------------will-quit------------------
+INFO 7/5/2020, 12:18:33 AM  ------------------start------------------
+INFO 7/5/2020, 12:18:33 AM  typora version: 0.9.89
+DEBUG 7/5/2020, 12:18:33 AM  [ '/usr/share/typora/Typora' ]
+INFO 7/5/2020, 12:18:33 AM  [Raven] instanceKey = 100a6734-2879-4374-8e7c-4fbba7399480
+DEBUG 7/5/2020, 12:18:33 AM  app.openFile
+INFO 7/5/2020, 12:18:34 AM  [Raven] userId = d495cdbd-e048-4d5b-8925-22dc651c3492
+INFO 7/5/2020, 12:18:34 AM  [focus] 1
+DEBUG 7/5/2020, 12:18:38 AM  app.openFile
+INFO 7/5/2020, 12:18:38 AM  switchDocument
+INFO 7/5/2020, 12:18:38 AM  addRecentDocument
+INFO 7/5/2020, 12:19:25 AM  [blur] 1
+INFO 7/5/2020, 12:19:29 AM  [focus] 1
+INFO 7/5/2020, 12:20:28 AM  [blur] 1
+INFO 7/5/2020, 12:20:35 AM  [focus] 1
+INFO 7/5/2020, 12:21:53 AM  [blur] 1
+INFO 7/5/2020, 12:21:56 AM  [focus] 1
+INFO 7/5/2020, 12:37:59 AM  [blur] 1
+INFO 7/6/2020, 7:11:36 AM  [focus] 1
+INFO 7/6/2020, 7:11:43 AM  [blur] 1
+INFO 7/6/2020, 7:11:44 AM  [focus] 1
+INFO 7/6/2020, 7:11:47 AM  [blur] 1
+INFO 7/6/2020, 7:11:51 AM  [focus] 1
+INFO 7/6/2020, 7:11:56 AM  [blur] 1
+INFO 7/6/2020, 7:32:08 AM  [focus] 1
+INFO 7/6/2020, 7:32:09 AM  [blur] 1
+INFO 7/6/2020, 11:05:17 AM  [focus] 1
+INFO 7/6/2020, 11:05:35 AM  [blur] 1
+INFO 7/6/2020, 11:05:39 AM  [focus] 1
+INFO 7/6/2020, 11:05:41 AM  ----------------before-quit-----------------
+INFO 7/6/2020, 11:05:41 AM  ------------------will-quit------------------
+INFO 7/18/2020, 9:56:43 AM  ------------------start------------------
+INFO 7/18/2020, 9:56:43 AM  typora version: 0.9.89
+DEBUG 7/18/2020, 9:56:43 AM  [ '/usr/share/typora/Typora' ]
+INFO 7/18/2020, 9:56:43 AM  [Raven] instanceKey = a189c9f0-cbcb-45d3-a73d-4de26105dee8
+DEBUG 7/18/2020, 9:56:43 AM  app.openFile
+INFO 7/18/2020, 9:56:43 AM  [Raven] userId = d495cdbd-e048-4d5b-8925-22dc651c3492
+INFO 7/18/2020, 9:56:43 AM  [focus] 1
+INFO 7/18/2020, 9:57:29 AM  [blur] 1
+INFO 7/18/2020, 9:57:43 AM  [focus] 1
+INFO 7/18/2020, 9:57:46 AM  [blur] 1
+INFO 7/18/2020, 9:57:52 AM  [focus] 1
+INFO 7/18/2020, 10:01:33 AM  [blur] 1
+INFO 7/18/2020, 10:01:37 AM  [focus] 1
+INFO 7/18/2020, 10:01:38 AM  [blur] 1
+INFO 7/18/2020, 10:01:46 AM  [focus] 1
+INFO 7/18/2020, 10:09:53 AM  [blur] 1
+INFO 7/18/2020, 10:10:03 AM  [focus] 1
+INFO 7/18/2020, 10:10:03 AM  [blur] 1
+INFO 7/18/2020, 10:10:03 AM  [focus] 1
+INFO 7/18/2020, 10:10:03 AM  [blur] 1
+INFO 7/18/2020, 10:10:07 AM  [focus] 1
+INFO 7/18/2020, 10:10:09 AM  [blur] 1
+INFO 7/18/2020, 10:10:22 AM  [focus] 1
+INFO 7/18/2020, 10:10:23 AM  [blur] 1
+INFO 7/18/2020, 10:10:26 AM  [focus] 1
+INFO 7/18/2020, 10:10:26 AM  addRecentDocument
+INFO 7/18/2020, 10:10:26 AM  ----------------before-quit-----------------
+INFO 7/18/2020, 10:10:26 AM  ------------------will-quit------------------
+INFO 7/18/2020, 11:20:17 AM  ------------------start------------------
+INFO 7/18/2020, 11:20:17 AM  typora version: 0.9.89
+DEBUG 7/18/2020, 11:20:17 AM  [ '/usr/share/typora/Typora' ]
+INFO 7/18/2020, 11:20:17 AM  [Raven] instanceKey = 91d640f5-e9be-4d8e-a076-2391655a97d7
+INFO 7/18/2020, 11:20:17 AM  [Raven] userId = d495cdbd-e048-4d5b-8925-22dc651c3492
+DEBUG 7/18/2020, 11:20:17 AM  app.openFile
+INFO 7/18/2020, 11:20:17 AM  [focus] 1
+DEBUG 7/18/2020, 11:20:23 AM  app.openFile
+INFO 7/18/2020, 11:20:23 AM  switchDocument
+INFO 7/18/2020, 11:20:23 AM  addRecentDocument
+INFO 7/18/2020, 11:23:59 AM  [blur] 1
+INFO 7/18/2020, 3:03:48 PM  [focus] 1
+INFO 7/18/2020, 3:03:51 PM  ----------------before-quit-----------------
+INFO 7/18/2020, 3:03:51 PM  ------------------will-quit------------------
+INFO 7/18/2020, 9:47:12 PM  ------------------start------------------
+INFO 7/18/2020, 9:47:12 PM  typora version: 0.9.89
+DEBUG 7/18/2020, 9:47:12 PM  [ '/usr/share/typora/Typora', '--help' ]
+INFO 7/18/2020, 9:47:12 PM  [Raven] instanceKey = 3365b1e3-4913-4de2-bccb-9e457edf73c3
+INFO 7/18/2020, 9:47:12 PM  [Raven] userId = d495cdbd-e048-4d5b-8925-22dc651c3492
+DEBUG 7/18/2020, 9:47:12 PM  app.openFile
+INFO 7/18/2020, 9:47:12 PM  [focus] 1
+INFO 7/18/2020, 9:47:15 PM  ----------------before-quit-----------------
+INFO 7/18/2020, 9:47:15 PM  ------------------will-quit------------------
+INFO 7/18/2020, 9:47:34 PM  ------------------start------------------
+INFO 7/18/2020, 9:47:34 PM  typora version: 0.9.89
+DEBUG 7/18/2020, 9:47:34 PM  [ '/usr/share/typora/Typora', './fhq_treap.md' ]
+DEBUG 7/18/2020, 9:47:34 PM  app.openFile
+INFO 7/18/2020, 9:47:34 PM  addRecentDocument
+INFO 7/18/2020, 9:47:34 PM  [Raven] instanceKey = 7f50cac6-c7a3-49f7-892e-e010df48e644
+INFO 7/18/2020, 9:47:34 PM  [Raven] userId = d495cdbd-e048-4d5b-8925-22dc651c3492
+INFO 7/18/2020, 9:47:34 PM  [focus] 1
+INFO 7/18/2020, 9:48:18 PM  [blur] 1
+INFO 7/18/2020, 10:14:46 PM  [focus] 1
+INFO 7/18/2020, 10:14:48 PM  [blur] 1
+INFO 7/19/2020, 8:26:48 PM  [focus] 1
+DEBUG 7/19/2020, 8:26:53 PM  app.openFile
+INFO 7/19/2020, 8:26:53 PM  [blur] 1
+INFO 7/19/2020, 8:26:53 PM  [focus] 2
+INFO 7/19/2020, 8:29:44 PM  [RenderProcess 2][Warn] cannot jumpIntoElemBegin to empty elem
+INFO 7/19/2020, 8:30:03 PM  [focus] 1
+DEBUG 7/19/2020, 8:30:15 PM  app.openFile
+INFO 7/19/2020, 8:30:15 PM  [blur] 1
+INFO 7/19/2020, 8:30:15 PM  [focus] 3
+INFO 7/19/2020, 8:30:33 PM  [blur] 3
+INFO 7/19/2020, 8:30:33 PM  [focus] 1
+INFO 7/19/2020, 8:30:34 PM  [blur] 1
+INFO 7/19/2020, 8:43:00 PM  [focus] 3
+INFO 7/19/2020, 8:43:00 PM  [blur] 3
+INFO 7/19/2020, 8:43:00 PM  [focus] 1
+INFO 7/19/2020, 8:43:00 PM  [blur] 1
+INFO 7/19/2020, 8:53:06 PM  [focus] 3
+INFO 7/19/2020, 9:01:53 PM  [blur] 3
+INFO 7/19/2020, 9:01:53 PM  [focus] 1
+INFO 7/19/2020, 9:01:54 PM  [blur] 1
+INFO 7/19/2020, 9:01:57 PM  [focus] 3
+INFO 7/19/2020, 9:01:57 PM  [blur] 3
+INFO 7/19/2020, 9:01:57 PM  [focus] 1
+INFO 7/19/2020, 9:01:58 PM  [blur] 1
+INFO 7/19/2020, 9:02:01 PM  [focus] 3
+INFO 7/19/2020, 9:02:01 PM  [blur] 3
+INFO 7/19/2020, 9:02:01 PM  [focus] 1
+INFO 7/19/2020, 9:02:02 PM  [blur] 1
+INFO 7/19/2020, 9:04:07 PM  [focus] 1
+INFO 7/19/2020, 9:04:08 PM  [blur] 1
+INFO 7/19/2020, 9:04:59 PM  [focus] 1
+INFO 7/19/2020, 9:05:06 PM  [blur] 1
+INFO 7/19/2020, 9:23:07 PM  [focus] 3
+INFO 7/19/2020, 9:23:07 PM  [blur] 3
+INFO 7/19/2020, 9:23:07 PM  [focus] 1
+INFO 7/19/2020, 9:23:08 PM  [blur] 1
+INFO 7/19/2020, 9:23:09 PM  [focus] 3
+INFO 7/19/2020, 9:23:24 PM  [blur] 3
+INFO 7/19/2020, 9:23:24 PM  [focus] 1
+INFO 7/19/2020, 9:23:24 PM  [blur] 1
+INFO 7/19/2020, 9:23:52 PM  [focus] 3
+INFO 7/19/2020, 9:23:53 PM  [blur] 3
+INFO 7/19/2020, 9:23:53 PM  [focus] 1
+INFO 7/19/2020, 9:23:53 PM  [blur] 1
+INFO 7/19/2020, 9:23:55 PM  [focus] 3
+INFO 7/19/2020, 9:23:55 PM  [blur] 3
+INFO 7/19/2020, 9:23:55 PM  [focus] 1
+INFO 7/19/2020, 9:23:55 PM  [blur] 1
+INFO 7/19/2020, 9:23:57 PM  [focus] 3
+INFO 7/19/2020, 9:25:22 PM  [blur] 3
+INFO 7/19/2020, 9:25:22 PM  [focus] 1
+INFO 7/19/2020, 9:25:22 PM  [blur] 1
+INFO 7/19/2020, 9:25:51 PM  [focus] 3
+INFO 7/19/2020, 9:27:19 PM  [blur] 3
+INFO 7/19/2020, 9:27:19 PM  [focus] 1
+INFO 7/19/2020, 9:27:19 PM  [blur] 1
+INFO 7/19/2020, 9:29:18 PM  [focus] 1
+INFO 7/19/2020, 9:29:19 PM  [blur] 1
+INFO 7/19/2020, 9:29:19 PM  [focus] 3
+INFO 7/19/2020, 9:29:20 PM  [blur] 3
+INFO 7/19/2020, 9:29:21 PM  [focus] 1
+INFO 7/19/2020, 9:29:23 PM  [blur] 1
+INFO 7/19/2020, 9:29:26 PM  [focus] 3
+INFO 7/19/2020, 9:29:28 PM  [RenderProcess 3][Error] cannot fixPopoverPosition on empty $parent
+INFO 7/19/2020, 9:29:56 PM  [blur] 3
+INFO 7/19/2020, 9:30:59 PM  [focus] 3
+INFO 7/19/2020, 9:31:21 PM  [blur] 3
+INFO 7/19/2020, 9:33:05 PM  [focus] 3
+INFO 7/19/2020, 9:33:06 PM  [blur] 3
+INFO 7/19/2020, 9:33:13 PM  [focus] 3
+INFO 7/19/2020, 9:38:08 PM  [blur] 3
+INFO 7/19/2020, 9:41:24 PM  [focus] 3
+INFO 7/19/2020, 9:44:30 PM  [blur] 3
+INFO 7/19/2020, 9:53:49 PM  [focus] 3
+INFO 7/19/2020, 9:58:01 PM  [blur] 3
+INFO 7/19/2020, 10:06:21 PM  [focus] 3
+INFO 7/19/2020, 10:08:47 PM  [blur] 3
+INFO 7/19/2020, 10:09:31 PM  [focus] 3
+INFO 7/19/2020, 10:10:57 PM  [blur] 3
+INFO 7/19/2020, 10:13:23 PM  [focus] 3
+INFO 7/19/2020, 10:26:57 PM  [blur] 3
+INFO 7/19/2020, 10:27:50 PM  [focus] 3
+INFO 7/19/2020, 10:27:57 PM  [blur] 3
+INFO 7/19/2020, 10:29:15 PM  [focus] 3
+INFO 7/19/2020, 10:29:15 PM  [blur] 3
+INFO 7/19/2020, 10:33:29 PM  [focus] 3
+INFO 7/19/2020, 10:33:40 PM  [blur] 3
+INFO 7/19/2020, 10:36:08 PM  [focus] 3
+INFO 7/19/2020, 10:36:08 PM  [blur] 3
+INFO 7/19/2020, 10:42:07 PM  [focus] 3
+INFO 7/19/2020, 10:42:10 PM  [blur] 3
+INFO 7/19/2020, 10:43:05 PM  [focus] 3
+INFO 7/19/2020, 10:43:06 PM  [blur] 3
+INFO 7/19/2020, 10:43:07 PM  [focus] 3
+INFO 7/19/2020, 10:43:07 PM  [blur] 3
+INFO 7/19/2020, 10:47:02 PM  [focus] 3
+INFO 7/19/2020, 10:47:29 PM  [blur] 3
+INFO 7/19/2020, 10:47:32 PM  [focus] 3
+INFO 7/19/2020, 10:47:34 PM  [blur] 3
+INFO 7/19/2020, 10:52:58 PM  [focus] 3
+INFO 7/19/2020, 10:55:09 PM  [blur] 3
+INFO 7/19/2020, 10:55:17 PM  [focus] 3
+INFO 7/19/2020, 10:55:30 PM  [blur] 3
+INFO 7/19/2020, 10:55:33 PM  [focus] 3
+INFO 7/19/2020, 10:55:36 PM  [blur] 3
+INFO 7/19/2020, 10:55:40 PM  [focus] 3
+INFO 7/19/2020, 10:59:42 PM  [blur] 3
+INFO 7/19/2020, 10:59:49 PM  [focus] 3
+INFO 7/19/2020, 10:59:52 PM  [blur] 3
+INFO 7/19/2020, 11:00:09 PM  [focus] 3
+INFO 7/19/2020, 11:00:09 PM  [blur] 3
+INFO 7/19/2020, 11:07:53 PM  [focus] 3
+DEBUG 7/19/2020, 11:07:57 PM  app.openFile
+INFO 7/19/2020, 11:07:57 PM  addRecentDocument
+INFO 7/19/2020, 11:07:57 PM  [blur] 3
+INFO 7/19/2020, 11:07:57 PM  [focus] 5
+INFO 7/19/2020, 11:08:05 PM  [blur] 5
+INFO 7/19/2020, 11:08:05 PM  [focus] 3
+INFO 7/19/2020, 11:08:06 PM  [blur] 3
+INFO 7/23/2020, 10:32:19 AM  ------------------start------------------
+INFO 7/23/2020, 10:32:19 AM  typora version: 0.9.89
+DEBUG 7/23/2020, 10:32:19 AM  [ '/usr/share/typora/Typora', 'HLD.md' ]
+DEBUG 7/23/2020, 10:32:19 AM  app.openFile
+INFO 7/23/2020, 10:32:19 AM  addRecentDocument
+INFO 7/23/2020, 10:32:19 AM  [Raven] instanceKey = 7f4bc440-16f5-4824-bdd2-396e3fb33673
+INFO 7/23/2020, 10:32:19 AM  [Raven] userId = d495cdbd-e048-4d5b-8925-22dc651c3492
+INFO 7/23/2020, 10:32:19 AM  [focus] 1
+INFO 7/23/2020, 10:32:22 AM  [blur] 1
+INFO 7/23/2020, 10:32:23 AM  [focus] 1
+INFO 7/23/2020, 10:32:23 AM  [blur] 1
+INFO 7/23/2020, 10:32:23 AM  [focus] 1
+INFO 7/23/2020, 10:32:24 AM  [blur] 1
+INFO 7/23/2020, 10:32:25 AM  [focus] 1
+INFO 7/23/2020, 10:32:26 AM  [blur] 1
+INFO 7/23/2020, 10:32:27 AM  [focus] 1
+INFO 7/23/2020, 10:32:27 AM  [blur] 1
+INFO 7/23/2020, 10:32:28 AM  [focus] 1
+INFO 7/23/2020, 10:32:28 AM  [blur] 1
+INFO 7/23/2020, 10:32:29 AM  [focus] 1
+INFO 7/23/2020, 10:32:29 AM  [blur] 1
+INFO 7/23/2020, 10:43:15 AM  [focus] 1
+INFO 7/23/2020, 10:43:15 AM  [blur] 1
+INFO 7/23/2020, 10:43:16 AM  [focus] 1
+INFO 7/23/2020, 10:43:16 AM  [blur] 1
+INFO 7/23/2020, 10:47:56 AM  [focus] 1
+INFO 7/23/2020, 10:50:33 AM  [blur] 1
+INFO 7/23/2020, 11:05:37 AM  [focus] 1
+INFO 7/23/2020, 11:05:37 AM  [blur] 1
+INFO 7/23/2020, 11:05:38 AM  [focus] 1
+INFO 7/23/2020, 11:05:38 AM  [blur] 1
+INFO 7/23/2020, 11:05:40 AM  [focus] 1
+INFO 7/23/2020, 11:16:21 AM  [blur] 1
+INFO 7/23/2020, 11:21:14 AM  [focus] 1
+INFO 7/23/2020, 11:21:15 AM  [blur] 1
+INFO 7/23/2020, 11:21:18 AM  [focus] 1
+INFO 7/23/2020, 11:21:37 AM  [blur] 1
+INFO 7/23/2020, 11:22:41 AM  [focus] 1
+INFO 7/23/2020, 11:23:14 AM  [blur] 1
+INFO 7/23/2020, 11:23:22 AM  [focus] 1
+INFO 7/23/2020, 11:24:56 AM  [blur] 1
+INFO 7/23/2020, 11:25:02 AM  [focus] 1
+INFO 7/23/2020, 11:25:14 AM  [blur] 1
+INFO 7/23/2020, 11:25:19 AM  [focus] 1
+INFO 7/23/2020, 11:25:46 AM  [blur] 1
+INFO 7/23/2020, 11:25:56 AM  [focus] 1
+INFO 7/23/2020, 11:28:11 AM  [blur] 1
+INFO 7/23/2020, 11:28:12 AM  [focus] 1
+INFO 7/23/2020, 11:28:13 AM  [blur] 1
+INFO 7/23/2020, 11:28:14 AM  [focus] 1
+INFO 7/23/2020, 11:28:16 AM  [blur] 1
+INFO 7/23/2020, 11:28:31 AM  [focus] 1
+INFO 7/23/2020, 11:32:08 AM  [blur] 1
+INFO 7/23/2020, 11:32:10 AM  [focus] 1
+INFO 7/23/2020, 11:32:11 AM  [blur] 1
+INFO 7/23/2020, 11:37:04 AM  [focus] 1
+INFO 7/23/2020, 11:37:07 AM  [blur] 1
+INFO 7/23/2020, 11:37:10 AM  [focus] 1
+INFO 7/23/2020, 11:38:20 AM  [blur] 1
+INFO 7/23/2020, 11:38:24 AM  [focus] 1
+INFO 7/23/2020, 11:40:27 AM  [blur] 1
+INFO 7/23/2020, 11:40:29 AM  [focus] 1
+INFO 7/23/2020, 11:40:29 AM  [blur] 1
+INFO 7/23/2020, 11:40:30 AM  [focus] 1
+INFO 7/23/2020, 11:40:59 AM  [blur] 1
+INFO 7/23/2020, 11:41:00 AM  [focus] 1
+INFO 7/23/2020, 11:41:15 AM  [blur] 1
+INFO 7/23/2020, 11:41:16 AM  [focus] 1
+INFO 7/23/2020, 11:41:16 AM  [blur] 1
+INFO 7/23/2020, 11:41:17 AM  [focus] 1
+INFO 7/23/2020, 11:43:12 AM  [blur] 1
+INFO 7/23/2020, 11:43:14 AM  [focus] 1
+INFO 7/23/2020, 11:44:01 AM  [blur] 1
+INFO 7/23/2020, 11:44:02 AM  [focus] 1
+INFO 7/23/2020, 11:44:19 AM  [blur] 1
+INFO 7/23/2020, 11:44:21 AM  [focus] 1
+INFO 7/23/2020, 11:44:37 AM  [blur] 1
+INFO 7/23/2020, 11:44:40 AM  [focus] 1
+INFO 7/23/2020, 11:44:59 AM  [blur] 1
+INFO 7/23/2020, 11:44:59 AM  [focus] 1
+INFO 7/23/2020, 11:44:59 AM  [blur] 1
+INFO 7/23/2020, 11:45:00 AM  [focus] 1
+INFO 7/23/2020, 11:45:02 AM  [blur] 1
+INFO 7/23/2020, 11:45:07 AM  [focus] 1
+INFO 7/23/2020, 11:45:17 AM  [blur] 1
+INFO 7/23/2020, 11:45:25 AM  [focus] 1
+INFO 7/23/2020, 11:49:05 AM  [blur] 1
+INFO 7/23/2020, 11:49:22 AM  [focus] 1
+INFO 7/23/2020, 11:50:27 AM  ----------------before-quit-----------------
+INFO 7/23/2020, 11:50:27 AM  ------------------will-quit------------------
+INFO 7/23/2020, 11:52:10 AM  ------------------start------------------
+INFO 7/23/2020, 11:52:10 AM  typora version: 0.9.89
+DEBUG 7/23/2020, 11:52:10 AM  [ '/usr/share/typora/Typora', 'HLD.md' ]
+DEBUG 7/23/2020, 11:52:10 AM  app.openFile
+INFO 7/23/2020, 11:52:10 AM  addRecentDocument
+INFO 7/23/2020, 11:52:10 AM  [Raven] instanceKey = 3d1ce4b8-ec6f-48ba-888a-24cddabda005
+INFO 7/23/2020, 11:52:10 AM  [Raven] userId = d495cdbd-e048-4d5b-8925-22dc651c3492
+INFO 7/23/2020, 11:52:10 AM  [focus] 1
+INFO 7/23/2020, 11:52:24 AM  ----------------before-quit-----------------
+INFO 7/23/2020, 11:52:24 AM  ------------------will-quit------------------
+INFO 7/28/2020, 10:53:38 AM  ------------------start------------------
+INFO 7/28/2020, 10:53:38 AM  typora version: 0.9.89
+DEBUG 7/28/2020, 10:53:38 AM  [ '/usr/share/typora/Typora', 'bcc.md' ]
+DEBUG 7/28/2020, 10:53:38 AM  app.openFile
+INFO 7/28/2020, 10:53:38 AM  addRecentDocument
+INFO 7/28/2020, 10:53:38 AM  [Raven] instanceKey = a4fe1910-72cb-4cac-bfdb-344ea4b9e965
+INFO 7/28/2020, 10:53:38 AM  [Raven] userId = d495cdbd-e048-4d5b-8925-22dc651c3492
+INFO 7/28/2020, 10:53:38 AM  [focus] 1
+INFO 7/28/2020, 10:56:14 AM  [blur] 1
+INFO 7/29/2020, 9:12:46 AM  [focus] 1
+INFO 7/29/2020, 9:12:47 AM  [blur] 1
+INFO 7/31/2020, 12:55:05 PM  ------------------start------------------
+INFO 7/31/2020, 12:55:05 PM  typora version: 0.9.89
+DEBUG 7/31/2020, 12:55:05 PM  [
+  '/usr/share/typora/Typora',
+  '/home/shushang/Code/cpeditor.github.io/content/en/docs/Features/_index.md'
+]
+DEBUG 7/31/2020, 12:55:05 PM  app.openFile
+INFO 7/31/2020, 12:55:05 PM  addRecentDocument
+INFO 7/31/2020, 12:55:05 PM  [Raven] instanceKey = 3c2e589c-e529-4c08-a9ce-7db436da60e5
+INFO 7/31/2020, 12:55:05 PM  [Raven] userId = d495cdbd-e048-4d5b-8925-22dc651c3492
+INFO 7/31/2020, 12:55:05 PM  [focus] 1
+INFO 7/31/2020, 12:57:46 PM  ----------------before-quit-----------------
+INFO 7/31/2020, 12:57:46 PM  ------------------will-quit------------------
+INFO 7/31/2020, 1:06:11 PM  ------------------start------------------
+INFO 7/31/2020, 1:06:11 PM  typora version: 0.9.89
+DEBUG 7/31/2020, 1:06:11 PM  [
+  '/usr/share/typora/Typora',
+  '/home/shushang/Code/cpeditor.github.io/content/en/docs/Features/_index.md'
+]
+DEBUG 7/31/2020, 1:06:11 PM  app.openFile
+INFO 7/31/2020, 1:06:11 PM  addRecentDocument
+INFO 7/31/2020, 1:06:11 PM  [Raven] instanceKey = 8205dce0-0505-4df7-b7af-bf797ac6a75e
+INFO 7/31/2020, 1:06:11 PM  [Raven] userId = d495cdbd-e048-4d5b-8925-22dc651c3492
+INFO 7/31/2020, 1:06:11 PM  [focus] 1
+INFO 7/31/2020, 1:06:36 PM  ----------------before-quit-----------------
+INFO 7/31/2020, 1:06:36 PM  ------------------will-quit------------------
+INFO 8/1/2020, 4:02:01 PM  ------------------start------------------
+INFO 8/1/2020, 4:02:01 PM  typora version: 0.9.89
+DEBUG 8/1/2020, 4:02:01 PM  [
+  '/usr/share/typora/Typora',
+  '/home/shushang/Code/cpeditor.github.io/content/en/docs/Appetite/_index.md'
+]
+DEBUG 8/1/2020, 4:02:01 PM  app.openFile
+INFO 8/1/2020, 4:02:01 PM  addRecentDocument
+INFO 8/1/2020, 4:02:01 PM  [Raven] instanceKey = 236aa7bd-e38a-4beb-a17c-038cf53d4e9c
+INFO 8/1/2020, 4:02:01 PM  [Raven] userId = d495cdbd-e048-4d5b-8925-22dc651c3492
+INFO 8/1/2020, 4:02:01 PM  [focus] 1
+INFO 8/1/2020, 4:02:15 PM  [blur] 1
+INFO 8/1/2020, 4:10:19 PM  [focus] 1
+INFO 8/1/2020, 4:10:20 PM  [blur] 1
+INFO 8/1/2020, 4:10:25 PM  [focus] 1
+INFO 8/1/2020, 4:10:25 PM  [blur] 1
+INFO 8/1/2020, 4:10:38 PM  [focus] 1
+INFO 8/1/2020, 4:10:39 PM  [blur] 1
+INFO 8/1/2020, 4:10:42 PM  [focus] 1
+INFO 8/1/2020, 4:10:42 PM  [blur] 1
+INFO 8/1/2020, 4:10:45 PM  [focus] 1
+INFO 8/1/2020, 4:10:45 PM  [blur] 1
+INFO 8/1/2020, 4:11:03 PM  [focus] 1
+INFO 8/1/2020, 4:11:04 PM  [blur] 1
+INFO 8/1/2020, 4:42:10 PM  [focus] 1
+INFO 8/1/2020, 4:45:12 PM  [blur] 1
+INFO 8/3/2020, 10:51:23 AM  [focus] 1
+INFO 8/3/2020, 10:51:26 AM  ----------------before-quit-----------------
+INFO 8/3/2020, 10:51:26 AM  ------------------will-quit------------------

@@ -1,0 +1,52 @@
+[$Version]
+update_info=kalarm.upd:1.9.5,kalarm.upd:1.9.9,kalarm.upd:1.9.12,kalarm.upd:2.0.0,kalarm.upd:2.0.2,kalarm.upd:2.1.5,kalarm.upd:2.3.2
+
+[EditDialog]
+Height 1200=594
+Height 768=594
+Width 1366=540
+Width 1920=540
+
+[General]
+AutoStart=true
+Backend=Akonadi
+CmdXTerm=konsole --noclose -p tabtitle=%t -e ${SHELL:-sh} -c %c
+MessageFont=Ubuntu,16,-1,5,75,0,0,0,0,0,Bold
+Version=2.13.3
+
+[KFileDialog Settings]
+Recent Files[$e]=12 - Euphoria.mp3,file:$HOME/Music/CloudMusic/orangestar/Orangestar\\,IA - 八十八鍵の宇宙.mp3,file:///usr/share/sounds/Oxygen-Im-Message-Out.ogg,file:///usr/share/sounds/Oxygen-Im-Message-In.ogg,file:///usr/share/sounds/Oxygen-Sys-App-Message.ogg,file:///usr/share/sounds/Oxygen-Sys-Log-In-Long.ogg,file:///usr/share/sounds/Oxygen-Sys-Log-In-Short.ogg,file:$HOME/Music/花澤香菜 (はなざわ かな)/恋爱サーキュレーション (恋爱循环)/01 - 恋愛サーキュレーション (恋爱循环).mp3,file:$HOME/Music/IA (イア)/IA-04 -STAR-/12 - Euphoria.mp3
+Recent URLs[$e]=file:$HOME/Music/CloudMusic/orangestar/
+detailViewIconSize=0
+
+[MainWindow]
+Height 1080=740
+Height 1200=1172
+Height 1920=1892
+Height 768=740
+MenuBar=Disabled
+Splitter 1920=151
+State=AAAA/wAAAAD9AAAAAAAABVYAAAK+AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1200=1200
+Width 1366=1366
+Width 1920=1366
+Window-Maximized 1200x1920=true
+
+[Migratekde4]
+Version=1
+
+[Notification Messages]
+ConfirmAlarmDeletion=false
+EmailQueuedNotify=false
+QuitWarn=
+
+[Phonon::AudioOutput]
+KAlarm_Volume=1
+
+[ShowOpts]
+EditMore=false
+
+[View]
+ShowArchivedAlarms=false
+ShowResources=false

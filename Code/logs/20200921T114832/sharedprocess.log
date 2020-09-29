@@ -1,0 +1,8 @@
+[2020-09-21 11:48:36.456] [sharedprocess] [info] main {"machineId":"572e5f5ab69e7d06420509b222e194442e03d4f2dbb7ea4991deb1710db5a5b5"}
+[2020-09-21 11:48:48.566] [sharedprocess] [info] Installing extension: skyapps.fish-vscode
+[2020-09-21 11:48:49.732] [sharedprocess] [info] Downloaded extension: skyapps.fish-vscode /tmp/f52771f7-737e-466b-88e4-8cda8e9ef17c
+[2020-09-21 11:48:49.789] [sharedprocess] [info] Extracted extension to /home/shushang/.vscode/extensions/.skyapps.fish-vscode-0.2.1: skyapps.fish-vscode
+[2020-09-21 11:48:49.790] [sharedprocess] [info] Renamed to /home/shushang/.vscode/extensions/skyapps.fish-vscode-0.2.1
+[2020-09-21 11:48:49.792] [sharedprocess] [info] Installation completed. skyapps.fish-vscode
+[2020-09-21 11:48:49.797] [sharedprocess] [info] Extensions installed successfully: skyapps.fish-vscode
+[2020-09-21 11:49:16.459] [sharedprocess] [info] Starting to clean up unused language packs.

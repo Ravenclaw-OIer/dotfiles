@@ -1,0 +1,71 @@
+[1]
+Active=6
+Tabs=[{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":1}]},{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":2}]},{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":3}]},{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":4}]},{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":5}]},{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":6}]},{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":7}]}]
+
+[Number]
+NumberOfSessions=7
+NumberOfWindows=1
+
+[Session1]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=FALLBACK/
+RemoteTab=(%u) %H
+SessionGuid={0daa2223-1eda-4332-aef9-cd75639c0a77}
+WorkingDir[$e]=$HOME
+
+[Session2]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=FALLBACK/
+RemoteTab=(%u) %H
+SessionGuid={2d00c00c-d697-4fae-99d1-60c73840141c}
+WorkingDir[$e]=$HOME
+
+[Session3]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=FALLBACK/
+RemoteTab=(%u) %H
+SessionGuid={c450542f-82fc-46c0-984f-61919c21c202}
+WorkingDir[$e]=/etc/apt
+
+[Session4]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=FALLBACK/
+RemoteTab=(%u) %H
+SessionGuid={bc1c5530-bb33-46fc-8eeb-186abbaa99b3}
+WorkingDir[$e]=$HOME
+
+[Session5]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=FALLBACK/
+RemoteTab=(%u) %H
+SessionGuid={a21cd72c-2c3c-4df5-bae3-32706105fb6a}
+WorkingDir[$e]=$HOME
+
+[Session6]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=FALLBACK/
+RemoteTab=(%u) %H
+SessionGuid={0a63968f-0f04-4a7f-9c44-ca344d6cda20}
+WorkingDir[$e]=$HOME
+
+[Session7]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=FALLBACK/
+RemoteTab=(%u) %H
+SessionGuid={331cd100-a12d-420d-8c23-262a282d3974}
+WorkingDir[$e]=$HOME
+
+[WindowProperties1]
+ClassName=Konsole::MainWindow
+Height 1080=1052
+MenuBar=Disabled
+ObjectName=MainWindow#1
+State=AAAA/wAAAAD9AAAAAAAAB0MAAAQcAAAABAAAAAQAAAAIAAAACPwAAAAA
+Width 1920=1859

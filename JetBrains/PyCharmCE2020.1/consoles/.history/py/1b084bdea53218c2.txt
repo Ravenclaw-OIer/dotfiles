@@ -1,0 +1,11 @@
+import os
+-. . -..- - / . -. - .-. -.--
+os.system("pwd")
+-. . -..- - / . -. - .-. -.--
+os.system("ls")
+-. . -..- - / . -. - .-. -.--
+os.system("ls -Al")
+-. . -..- - / . -. - .-. -.--
+import config
+-. . -..- - / . -. - .-. -.--
+config.read_config()

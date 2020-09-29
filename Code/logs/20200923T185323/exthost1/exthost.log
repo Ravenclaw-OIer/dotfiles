@@ -1,0 +1,28 @@
+[2020-09-23 18:53:26.208] [exthost] [info] extension host started
+[2020-09-23 18:53:26.218] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2020-09-23 18:53:26.218] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-09-23 18:53:26.221] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2020-09-23 18:53:26.221] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-09-23 18:53:26.260] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2020-09-23 18:53:26.260] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2020-09-23 18:53:26.339] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2020-09-23 18:53:26.339] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2020-09-23 18:53:26.344] [exthost] [info] eager extensions activated
+[2020-09-23 18:53:41.059] [exthost] [info] extension host started
+[2020-09-23 18:53:41.066] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2020-09-23 18:53:41.066] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-09-23 18:53:41.068] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2020-09-23 18:53:41.068] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-09-23 18:53:41.099] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2020-09-23 18:53:41.099] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2020-09-23 18:53:41.183] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2020-09-23 18:53:41.183] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2020-09-23 18:53:41.188] [exthost] [info] eager extensions activated
+[2020-09-23 18:54:11.078] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:markdown"}
+[2020-09-23 18:54:11.078] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2020-09-23 18:54:11.128] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features {"startup":false,"activationEvent":"onLanguage:markdown"}
+[2020-09-23 18:54:11.128] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/markdown-language-features/dist/extension
+[2020-09-23 19:12:01.684] [exthost] [info] ExtensionService#_doActivateExtension vscode.python {"startup":false,"activationEvent":"onLanguage:python"}
+[2020-09-23 19:12:01.684] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/python/dist/pythonMain
+[2020-09-24 11:49:41.947] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"activationEvent":"onLanguage:python"}
+[2020-09-24 11:49:41.947] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/shushang/.vscode/extensions/ms-python.python-2020.2.64397/out/client/extension

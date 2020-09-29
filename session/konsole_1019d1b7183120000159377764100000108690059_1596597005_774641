@@ -1,0 +1,37 @@
+[1]
+Active=2
+Tabs=[{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":1}]},{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":2}]},{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":3}]}]
+
+[Number]
+NumberOfSessions=3
+NumberOfWindows=1
+
+[Session1]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=$HOME/.local/share/konsole/Profile 2.profile
+RemoteTab=(%u) %H
+SessionGuid={441ab8fd-1f00-4c93-a2bd-de9876b7dc4e}
+WorkingDir[$e]=$HOME/Code/OI/blog
+
+[Session2]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=$HOME/.local/share/konsole/Profile 2.profile
+RemoteTab=(%u) %H
+SessionGuid={8f65b644-2f66-41c7-be27-c0cd13b5ade6}
+WorkingDir[$e]=$HOME/Code/OI/blog
+
+[Session3]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=$HOME/.local/share/konsole/Profile 2.profile
+RemoteTab=(%u) %H
+SessionGuid={b41a522d-bda2-46ff-8353-48aed7b84ecd}
+WorkingDir[$e]=/etc
+
+[WindowProperties1]
+ClassName=Konsole::MainWindow
+ObjectName=MainWindow#1
+State=AAAA/wAAAAD9AAAAAAAABVYAAALHAAAABAAAAAQAAAAIAAAACPwAAAAA
+Window-Maximized 1200x1920=true

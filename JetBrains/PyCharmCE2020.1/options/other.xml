@@ -1,0 +1,54 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="AFTER.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="0" />
+    <property name="AFTER.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="true" />
+    <property name="AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_STATUS_BAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="1" />
+    <property name="BEFORE.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_STATUS_BAR" value="true" />
+    <property name="InstalledPluginsSearchHistory" value="copyri" />
+    <property name="LAST_INJECTED_LANGUAGE" value="GitIgnore" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="PyCharm.InitialConfiguration.V7" value="true" />
+    <property name="SettingsSearchHistory" value="fo佛&#10;pip&#10;copyri" />
+    <property name="SplitFileEditor.Proportion" value="0.6025515" />
+    <property name="appcds.runOnSecondStart" value="PC-201.8743.11-2d7775587a6ad6e5d98b9fbf03a09eb20eaf7bf3da8177ee233fee133e0afc83" />
+    <property name="ask.about.ctrl.y.shortcut" value="true" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/PycharmProjects/wiki&#10;/home/shushang/PycharmProjects/chtholly" />
+    <property name="file.gist.reindex.count" value="1834" />
+    <property name="fileTypeChangedCounter" value="2" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="lastSeenTip" value="neue-Escape.html" />
+    <property name="lastTimeTipsWereShown" value="1595905603021" />
+    <property name="seenTips" value="neue-CtrlW.html,neue-RecentFiles.html,neue-NavigateToFilePath.html,neue-c634eaf4.html,neue-RecentChanges.html,neue-GotoLineInFile.html,neue-PrintKeywords.html,neue-SpellcheckerDictionaries.html,neue-Close_all_editor_tabs.html,neue-QuickDocOnMouseMove.html,neue-RunConfigFolders.html,neue-QuickFixRightArrow.html,neue-Escape.html" />
+    <property name="settings.code.style.selected.tab.Python" value="Tabs and Indents" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+  </component>
+</application>

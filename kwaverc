@@ -1,0 +1,19 @@
+[MainWindow]
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAQmAAAABAAAAAQAAAAIAAAACPwAAAACAAAAAgAAAAIAAAAeAE0AYQBpAG4AVwBpAGQAZwBlAHQAIABGAGkAbABlAQAAAAD/////AAAAAAAAAAAAAAAeAE0AYQBpAG4AVwBpAGQAZwBlAHQAIABFAGQAaQB0AQAAALj/////AAAAAAAAAAAAAAACAAAAAgAAADQATQBhAGkAbgBXAGkAZABnAGUAdAAgAFIAZQBjAG8AcgBkAC8AUABsAGEAeQBiAGEAYwBrAQAAAAD/////AAAAAAAAAAAAAAAeAE0AYQBpAG4AVwBpAGQAZwBlAHQAIABaAG8AbwBtAQAAAZr/////AAAAAAAAAAA=
+Window-Maximized 1200x1920=true
+toolbars=3
+
+[MainWindow][Toolbar MainWidget Edit]
+ToolButtonStyle=IconOnly
+
+[MainWindow][Toolbar MainWidget File]
+ToolButtonStyle=IconOnly
+
+[MainWindow][Toolbar MainWidget Record/Playback]
+IconSize=32
+ToolButtonStyle=IconOnly
+
+[MainWindow][Toolbar MainWidget Zoom]
+IconSize=32
+ToolButtonStyle=IconOnly

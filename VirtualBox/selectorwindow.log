@@ -1,0 +1,27 @@
+00:00:00.690689 VirtualBox GUI VM Selector Window 6.1.10_Ubuntu r138449 linux.amd64 (Jun  6 2020 11:31:37) release log
+00:00:00.690691 Log opened 2020-09-29T10:41:31.909156000Z
+00:00:00.690691 Build Type: release
+00:00:00.690697 OS Product: Linux
+00:00:00.690698 OS Release: 5.4.0-48-generic
+00:00:00.690699 OS Version: #52-Ubuntu SMP Thu Sep 10 10:58:49 UTC 2020
+00:00:00.690748 DMI Product Name: OptiPlex 3050
+00:00:00.690756 DMI Product Version: 
+00:00:00.690769 Firmware type: BIOS
+00:00:00.690837 Host RAM: 7846MB (7.6GB) total, 2538MB (2.4GB) available
+00:00:00.690846 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.690846 Process ID: 162500
+00:00:00.690847 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.690883 Qt version: 5.12.8
+00:00:00.738066 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:01.432901 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 61x28 x 1859x1052
+00:00:01.479819 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:02:41.429137 GUI: UIMediumEnumerator: Medium with key={{01566812-909c-4635-a85f-1dc2c66f24ea}} created
+00:02:41.682918 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:02:58.121901 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:03:01.810622 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:03:20.516936 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:05:29.063170 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:05:33.996112 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:05:34.481287 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:05:34.552609 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:05:34.577511 GUI: UIMediumEnumerator: Medium-enumeration finished!

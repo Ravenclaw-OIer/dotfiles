@@ -1,0 +1,12 @@
+[General]
+default-transport=58026499
+
+[Transport 58026499]
+auth=true
+encryption=SSL
+host=smtp.126.com
+id=58026499
+name=126.com (yzshangs)
+port=465
+storepass=true
+user=yzshangs@126.com

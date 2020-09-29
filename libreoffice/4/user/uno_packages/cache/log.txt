@@ -1,0 +1,22 @@
+###### Progress log entry 2020-03-31 12:58:32 ######
+Reinstalling all deployed packages...
+###### Progress log entry 2020-03-31 16:51:10 ######
+###### Progress log entry 2020-04-01 21:18:07 ######
+###### Progress log entry 2020-04-02 08:59:48 ######
+###### Progress log entry 2020-04-04 14:15:57 ######
+ERROR: (com.sun.star.lang.IllegalArgumentException) { { { Message = "There is no such extension deployed: org.roland65.texmaths", Context = (com.sun.star.uno.XInterface) @55e16d643ac0 } }, ArgumentPosition = (short) -1 }
+ERROR: (com.sun.star.lang.IllegalArgumentException) { { { Message = "There is no such extension deployed: org.roland65.texmaths", Context = (com.sun.star.uno.XInterface) @55e16d643ac0 } }, ArgumentPosition = (short) -1 }
+Copying: TexMaths-0.48.oxt
+###### Progress log entry 2020-04-05 20:47:50 ######
+###### Progress log entry 2020-04-05 21:51:33 ######
+###### Progress log entry 2020-04-05 21:51:42 ######
+###### Progress log entry 2020-04-08 11:02:01 ######
+###### Progress log entry 2020-04-10 22:18:45 ######
+ERROR: (com.sun.star.lang.IllegalArgumentException) { { { Message = "There is no such extension deployed: javahelps.codehighlighter", Context = (com.sun.star.uno.XInterface) @55cd73d7ef00 } }, ArgumentPosition = (short) -1 }
+ERROR: (com.sun.star.lang.IllegalArgumentException) { { { Message = "There is no such extension deployed: javahelps.codehighlighter", Context = (com.sun.star.uno.XInterface) @55cd73d7ef00 } }, ArgumentPosition = (short) -1 }
+Copying: codehighlighter.oxt
+Copying: codehighlighter.oxt
+Copying: codehighlighter.oxt
+ERROR: (com.sun.star.lang.IllegalArgumentException) { { { Message = "There is no such extension deployed: javahelps.codehighlighter", Context = (com.sun.star.uno.XInterface) @55cd73d7ef00 } }, ArgumentPosition = (short) -1 }
+###### Progress log entry 2020-04-11 23:58:22 ######
+###### Progress log entry 2020-04-23 18:28:47 ######

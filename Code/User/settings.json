@@ -1,0 +1,11 @@
+{
+    "editor.fontFamily": "'Ubuntu Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "files.autoSave": "afterDelay",
+    "files.defaultLanguage": "C++",
+    "c-cpp-compile-run.cpp-flags": "-Wall -Wextra -std=c++17 -Wfatal-errors",
+    "editor.fontSize": 16,
+    "workbench.colorTheme": "Monokai",
+    "editor.fontLigatures": true,
+    "editor.tabSize": 2,
+    "git.enableSmartCommit": true
+}

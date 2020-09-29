@@ -1,0 +1,53 @@
+[1]
+Active=4
+Tabs=[{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":1}]},{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":2}]},{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":3}]},{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":4}]},{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":5}]}]
+
+[Number]
+NumberOfSessions=5
+NumberOfWindows=1
+
+[Session1]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=$HOME/.local/share/konsole/Profile 2.profile
+RemoteTab=(%u) %H
+SessionGuid={5dc5c798-28ae-4011-8521-d72792cec92a}
+WorkingDir[$e]=$HOME
+
+[Session2]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=$HOME/.local/share/konsole/Profile 2.profile
+RemoteTab=(%u) %H
+SessionGuid={c9dfe620-9f96-4c25-afc3-4df24aa41bbb}
+WorkingDir[$e]=/usr/bin
+
+[Session3]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=$HOME/.local/share/konsole/Profile 2.profile
+RemoteTab=(%u) %H
+SessionGuid={2e0965b4-41bf-4075-bf02-b4364050875d}
+WorkingDir[$e]=$HOME
+
+[Session4]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=$HOME/.local/share/konsole/Profile 2.profile
+RemoteTab=(%u) %H
+SessionGuid={f7608a03-2766-4765-8b0b-e85d20dc5553}
+WorkingDir[$e]=/opt
+
+[Session5]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=$HOME/.local/share/konsole/Profile 2.profile
+RemoteTab=(%u) %H
+SessionGuid={441ab8fd-1f00-4c93-a2bd-de9876b7dc4e}
+WorkingDir[$e]=$HOME/Code/OI/blog
+
+[WindowProperties1]
+ClassName=Konsole::MainWindow
+ObjectName=MainWindow#1
+State=AAAA/wAAAAD9AAAAAAAABVYAAALHAAAABAAAAAQAAAAIAAAACPwAAAAA
+Window-Maximized 768x1366=true

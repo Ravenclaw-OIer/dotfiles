@@ -1,0 +1,15 @@
+[KFileDialog Settings]
+Recent Files[$e]=file:///usr/share/sounds/Oxygen-Im-Cant-Connect.ogg,file:///usr/share/sounds/Oxygen-Sys-Warning.ogg,file:///usr/share/sounds/Oxygen-Sys-App-Error-Critical.ogg,file:///usr/share/sounds/Oxygen-Sys-App-Error-Serious-Very.ogg,file:///usr/share/sounds/Oxygen-Sys-App-Error-Serious.ogg,file:///usr/share/sounds/Oxygen-Sys-List-End.ogg,file:///usr/share/sounds/Oxygen-Sys-Special.ogg,file:///usr/share/sounds/Oxygen-Sys-Trash-Emptied.ogg,file:///usr/share/sounds/Oxygen-Im-Highlight-Msg.ogg,file:///usr/share/sounds/Oxygen-Im-Error-On-Connection.ogg,file:///usr/share/sounds/Oxygen-Im-Contact-Out.ogg,file:///usr/share/sounds/Oxygen-Im-Contact-In.ogg,file:///usr/share/sounds/Oxygen-Im-Connection-Lost.ogg,file:///usr/share/sounds/Oxygen-Im-Low-Priority-Message.ogg
+Recent URLs[$e]=file:///usr/share/sounds/
+detailViewIconSize=0
+
+[KPropertiesDialog]
+Height 1200=451
+Width 1920=410
+
+[Open-with settings]
+CompletionMode=1
+History=
+
+[PlasmaRunnerManager]
+LaunchCounts=

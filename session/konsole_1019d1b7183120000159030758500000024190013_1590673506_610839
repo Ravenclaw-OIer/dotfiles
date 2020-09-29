@@ -1,0 +1,30 @@
+[1]
+Active=1
+Tabs=[{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":1}]},{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":2}]}]
+
+[Number]
+NumberOfSessions=2
+NumberOfWindows=1
+
+[Session1]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=FALLBACK/
+RemoteTab=(%u) %H
+SessionGuid={6238887d-cfd2-4917-b0cb-8d94575a36cb}
+WorkingDir[$e]=$HOME
+
+[Session2]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=FALLBACK/
+RemoteTab=(%u) %H
+SessionGuid={020c52c6-25c9-463a-b4fa-64a9656dc73b}
+WorkingDir[$e]=$HOME
+
+[WindowProperties1]
+ClassName=Konsole::MainWindow
+Height 1200=1135
+ObjectName=MainWindow#1
+State=AAAA/wAAAAD9AAAAAAAAB4AAAARRAAAABAAAAAQAAAAIAAAACPwAAAAA
+Width 1920=1920

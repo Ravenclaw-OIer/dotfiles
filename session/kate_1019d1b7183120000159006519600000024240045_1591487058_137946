@@ -1,0 +1,196 @@
+[1]
+Active ViewSpace=0
+Height 768=480
+Kate-MDI-H-Splitter=0,0,0
+Kate-MDI-Sidebar-0-Splitter=0,0,0
+Kate-MDI-Sidebar-1-Splitter=
+Kate-MDI-Sidebar-2-Splitter=
+Kate-MDI-Sidebar-3-Splitter=0,0
+Kate-MDI-Sidebar-Style=2
+Kate-MDI-Sidebar-Visible=true
+Kate-MDI-ToolView-kate_plugin_katesearch-Persistent=false
+Kate-MDI-ToolView-kate_plugin_katesearch-Position=3
+Kate-MDI-ToolView-kate_plugin_katesearch-Sidebar-Position=0
+Kate-MDI-ToolView-kate_plugin_katesearch-Visible=false
+Kate-MDI-ToolView-kate_private_plugin_katefileselectorplugin-Persistent=false
+Kate-MDI-ToolView-kate_private_plugin_katefileselectorplugin-Position=0
+Kate-MDI-ToolView-kate_private_plugin_katefileselectorplugin-Sidebar-Position=2
+Kate-MDI-ToolView-kate_private_plugin_katefileselectorplugin-Visible=false
+Kate-MDI-ToolView-kate_private_plugin_katefiletreeplugin-Persistent=false
+Kate-MDI-ToolView-kate_private_plugin_katefiletreeplugin-Position=0
+Kate-MDI-ToolView-kate_private_plugin_katefiletreeplugin-Sidebar-Position=0
+Kate-MDI-ToolView-kate_private_plugin_katefiletreeplugin-Visible=false
+Kate-MDI-ToolView-kateproject-Persistent=false
+Kate-MDI-ToolView-kateproject-Position=0
+Kate-MDI-ToolView-kateproject-Sidebar-Position=1
+Kate-MDI-ToolView-kateproject-Visible=false
+Kate-MDI-ToolView-kateprojectinfo-Persistent=false
+Kate-MDI-ToolView-kateprojectinfo-Position=3
+Kate-MDI-ToolView-kateprojectinfo-Sidebar-Position=1
+Kate-MDI-ToolView-kateprojectinfo-Visible=false
+Kate-MDI-V-Splitter=0,0,0
+State=AAAA/wAAAAD9AAAAAAAAAAAAAAAAAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1366=640
+
+[1-Splitter 0]
+Children=1-ViewSpace 0
+Orientation=1
+Sizes=0
+
+[1-ViewSpace 0]
+Count=0
+Documents=file:///home/shushang/OI/Zoom/status.toml,file:///home/shushang/OI/Zoom/oj_name.toml,file:///home/shushang/OI/Zoom/2020-03-12 14.55.27 xiang liZoom会议 192982276/meeting_saved_chat.txt,file:///home/shushang/OI/Zoom/2020-03-21 15.58.44 xiang liZoom会议 993198975/meeting_saved_chat.txt,file:///home/shushang/OI/Zoom/2020-02-05 18.03.21 xiang liZoom会议 388038745/uoj333 dfs.txt,file:///home/shushang/OI/Zoom/2020-02-05 18.03.21 xiang liZoom会议 388038745/meeting_saved_chat.txt,file:///home/shushang/OI/LibreOJ/2318-cyaron.py,file:///home/shushang/kino/kino.cpp
+
+[Document 0]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=TOML
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=TOML
+Mode Set By User=true
+URL=file:///home/shushang/OI/Zoom/status.toml
+
+[Document 1]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=TOML
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=TOML
+Mode Set By User=true
+URL=file:///home/shushang/OI/Zoom/oj_name.toml
+
+[Document 2]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+URL=file:///home/shushang/OI/Zoom/2020-03-12 14.55.27 xiang liZoom会议 192982276/meeting_saved_chat.txt
+
+[Document 3]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+URL=file:///home/shushang/OI/Zoom/2020-03-21 15.58.44 xiang liZoom会议 993198975/meeting_saved_chat.txt
+
+[Document 4]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+URL=file:///home/shushang/OI/Zoom/2020-02-05 18.03.21 xiang liZoom会议 388038745/uoj333 dfs.txt
+
+[Document 5]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+URL=file:///home/shushang/OI/Zoom/2020-02-05 18.03.21 xiang liZoom会议 388038745/meeting_saved_chat.txt
+
+[Document 6]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=Python
+Highlighting Set By User=false
+Indentation Mode=python
+Mode=Python
+Mode Set By User=true
+URL=file:///home/shushang/OI/LibreOJ/2318-cyaron.py
+
+[Document 7]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=C++
+Highlighting Set By User=false
+Indentation Mode=cstyle
+Mode=C++
+Mode Set By User=false
+URL=file:///home/shushang/kino/kino.cpp
+
+[General]
+Last Session=
+
+[Kate Plugins]
+externaltoolsplugin=true
+katebacktracebrowserplugin=false
+katebuildplugin=false
+katecloseexceptplugin=false
+katectagsplugin=false
+katefilebrowserplugin=true
+katefiletreeplugin=true
+kategdbplugin=false
+katekonsoleplugin=true
+kateopenheaderplugin=false
+kateprojectplugin=true
+katereplicodeplugin=false
+katesearchplugin=true
+katesnippetsplugin=false
+katesqlplugin=false
+katesymbolviewerplugin=false
+katexmlcheckplugin=false
+katexmltoolsplugin=false
+ktexteditorpreviewplugin=false
+lspclientplugin=false
+tabswitcherplugin=true
+textfilterplugin=true
+
+[Number]
+NumberOfWindows=1
+
+[Open Documents]
+Count=8
+
+[Plugin:katefilebrowserplugin:MainWindow:0]
+Allow Expansion=false
+Decoration position=2
+Show Inline Previews=true
+Show Preview=false
+Show hidden files=false
+Sort by=Name
+Sort directories first=true
+Sort reversed=false
+View Style=DetailTree
+auto sync folder=false
+filter history=
+location=file:///home/shushang/OI/Zoom/2020-02-05 18.03.21 xiang liZoom会议 388038745/
+
+[Plugin:katesearchplugin:MainWindow:0]
+BinaryFiles=false
+CurrentExcludeFilter=-1
+CurrentFilter=-1
+ExcludeFilters=
+ExpandSearchResults=false
+Filters=
+FollowSymLink=false
+HiddenFiles=false
+MatchCase=false
+Place=1
+Recursive=true
+Replaces=
+Search=
+SearchDiskFiles=
+SearchDiskFiless=
+UseRegExp=false
+
+[WindowProperties1]
+ClassName=KateMainWindow
+Height 768=480
+ObjectName=MainWindow#1
+State=AAAA/wAAAAD9AAAAAAAAAAAAAAAAAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1366=640

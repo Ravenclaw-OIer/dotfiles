@@ -1,0 +1,8 @@
+[2020-09-24 18:37:53.394] [sharedprocess] [info] main {"machineId":"572e5f5ab69e7d06420509b222e194442e03d4f2dbb7ea4991deb1710db5a5b5"}
+[2020-09-24 18:38:33.399] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-09-25 09:53:15.863] [sharedprocess] [info] Installing extension: mtxr.sqltools
+[2020-09-25 09:53:16.636] [sharedprocess] [info] Downloaded extension: mtxr.sqltools /tmp/19c03d24-95da-4b05-b305-886ac154dc53
+[2020-09-25 09:53:16.831] [sharedprocess] [info] Extracted extension to /home/shushang/.vscode/extensions/.mtxr.sqltools-0.21.9: mtxr.sqltools
+[2020-09-25 09:53:16.832] [sharedprocess] [info] Renamed to /home/shushang/.vscode/extensions/mtxr.sqltools-0.21.9
+[2020-09-25 09:53:16.833] [sharedprocess] [info] Installation completed. mtxr.sqltools
+[2020-09-25 09:53:16.837] [sharedprocess] [info] Extensions installed successfully: mtxr.sqltools

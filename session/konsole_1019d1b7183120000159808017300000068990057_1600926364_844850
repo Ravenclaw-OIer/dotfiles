@@ -1,0 +1,88 @@
+[1]
+Active=8
+Tabs=[{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":1}]},{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":2}]},{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":3}]},{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":4}]},{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":5}]},{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":6}]},{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":7}]},{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":8}]},{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":9}]}]
+
+[Number]
+NumberOfSessions=9
+NumberOfWindows=1
+
+[Session1]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=FALLBACK/
+RemoteTab=(%u) %H
+SessionGuid={0a63968f-0f04-4a7f-9c44-ca344d6cda20}
+WorkingDir[$e]=$HOME/Videos/Synthesizer V Studio Basic/projects/rocaloid/third-party/videos
+
+[Session2]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=FALLBACK/
+RemoteTab=(%u) %H
+SessionGuid={178d447e-fc0f-4fd6-a608-b432d3db08ae}
+WorkingDir[$e]=$HOME/scarborough-fair
+
+[Session3]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=FALLBACK/
+RemoteTab=(%u) %H
+SessionGuid={e1e6f32f-ced3-4b46-8028-f938aa77e6bd}
+WorkingDir[$e]=$HOME/Videos/Synthesizer V Studio Basic/projects/rocaloid/third-party/videos
+
+[Session4]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=FALLBACK/
+RemoteTab=(%u) %H
+SessionGuid={cc797dec-99fb-4c5d-b232-ae096d2be7aa}
+WorkingDir[$e]=$HOME/Videos/Synthesizer V Studio Basic/projects/rocaloid
+
+[Session5]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=FALLBACK/
+RemoteTab=(%u) %H
+SessionGuid={aaea1df5-3e35-4ac4-8bfc-6d40ce715c21}
+WorkingDir[$e]=$HOME/Videos/Synthesizer V Studio Basic/projects/rocaloid
+
+[Session6]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=FALLBACK/
+RemoteTab=(%u) %H
+SessionGuid={d9a89035-2cd4-497f-95db-229c7a39e659}
+WorkingDir[$e]=$HOME
+
+[Session7]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=FALLBACK/
+RemoteTab=(%u) %H
+SessionGuid={30d09558-15e4-4a8a-bf89-3041b912d014}
+WorkingDir[$e]=$HOME/scarborough-fair
+
+[Session8]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=FALLBACK/
+RemoteTab=(%u) %H
+SessionGuid={433bf947-8075-47c3-bf10-804102cc49f8}
+WorkingDir[$e]=$HOME/scarborough-fair
+
+[Session9]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=FALLBACK/
+RemoteTab=(%u) %H
+SessionGuid={5e681001-bc75-4764-8d94-4c587a0b97e6}
+WorkingDir[$e]=$HOME/project-chtholly-neo
+
+[WindowProperties1]
+ClassName=Konsole::MainWindow
+Height 1080=1052
+MenuBar=Disabled
+ObjectName=MainWindow#1
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAQcAAAABAAAAAQAAAAIAAAACPwAAAAA
+ToolBarsMovable=Disabled
+Width 1920=1920

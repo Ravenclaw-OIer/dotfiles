@@ -1,0 +1,198 @@
+[Desktop Entry]
+DefaultProfile=
+
+[Favorite Profiles]
+Favorites=
+
+[General]
+Close After Last=false
+Config Revision=10
+Days Meta Infos=30
+Modified Notification=false
+Quick Open List Mode=0
+Quick Open Search Mode=0
+Recent File List Entry Count=10
+Restore Window Configuration=true
+Save Meta Infos=true
+Show Full Path in Title=false
+Show Menu Bar=true
+Show Status Bar=true
+Show Tab Bar=true
+Startup Session=manual
+
+[KFileDialog Settings]
+Recent Files[$e]=file:///tmp/qwq.cpp,file:$HOME/DDLCModTemplate/game/script-welcome.rpy,file:$HOME/yzhshell.cpp,file:$HOME/fsh.cpp
+Recent URLs[$e]=file:$HOME/DDLCModTemplate/
+detailViewIconSize=0
+
+[KTextEditor Document]
+Allow End of Line Detection=true
+BOM=false
+Backup Local=false
+Backup Prefix=
+Backup Remote=false
+Backup Suffix=~
+Encoding=UTF-8
+End of Line=0
+Indent On Backspace=true
+Indent On Tab=true
+Indent On Text Paste=false
+Indentation Mode=normal
+Indentation Width=4
+Keep Extra Spaces=false
+Line Length Limit=10000
+Newline at End of File=true
+On-The-Fly Spellcheck=false
+Overwrite Mode=false
+PageUp/PageDown Moves Cursor=false
+Remove Spaces=0
+ReplaceTabsDyn=true
+Show Spaces=0
+Show Tabs=true
+Smart Home=true
+Swap Directory=
+Swap File Mode=1
+Swap Sync Interval=15
+Tab Handling=2
+Tab Width=4
+Trailing Marker Size=1
+Word Wrap=false
+Word Wrap Column=80
+
+[KTextEditor Editor]
+Encoding Prober Type=1
+Fallback Encoding=ISO 8859-15
+
+[KTextEditor Renderer]
+Animate Bracket Matching=false
+Schema=Breeze Dark
+Show Indentation Lines=false
+Show Whole Bracket Expression=false
+Word Wrap Marker=false
+
+[KTextEditor View]
+Allow Mark Menu=true
+Auto Brackets=true
+Auto Center Lines=0
+Auto Completion=true
+Backspace Remove Composed Characters=false
+Bookmark Menu Sorting=0
+Chars To Enclose Selection=<>(){}[]
+Default Mark Type=1
+Dynamic Word Wrap=true
+Dynamic Word Wrap Align Indent=80
+Dynamic Word Wrap At Static Marker=false
+Dynamic Word Wrap Indicators=1
+Dynamic Wrap not at word boundaries=false
+Fold First Line=false
+Folding Bar=true
+Folding Preview=true
+Icon Bar=false
+Input Mode=0
+Keyword Completion=false
+Line Modification=true
+Line Numbers=true
+Maximum Search History Size=100
+Mouse Paste At Cursor Position=false
+Persistent Selection=false
+Scroll Bar Marks=false
+Scroll Bar Mini Map All=true
+Scroll Bar Mini Map Width=60
+Scroll Bar MiniMap=true
+Scroll Bar Preview=true
+Scroll Past End=false
+Search/Replace Flags=1036
+Show Line Count=false
+Show Scrollbars=0
+Show Word Count=false
+Smart Copy Cut=false
+Text Drag And Drop=true
+User Sets Of Chars To Enclose Selection="({
+Vi Input Mode Steal Keys=false
+Vi Relative Line Numbers=false
+Word Completion=true
+Word Completion Minimal Word Length=3
+Word Completion Remove Tail=true
+
+[KTextEditor::Search]
+Replace History=int,void,inline,"\\\\n",,OI,lessons,x86_64-w64-mingw32-g++
+Search History=六十三,之,I,vo,il,"\\\\n",Qt::endl,13,[[problem]],M,MX,MXxu,MXxudW18WTJO,mas_dockstat_ready_to_go,exam,stay,goOut,g++
+
+[Kate Print Settings][Margins]
+bottom=12.7
+left=6.35
+right=6.35
+top=12.7
+
+[Konsole]
+AutoSyncronize=true
+RemoveExtension=false
+RunPrefix=
+SetEditor=false
+
+[MainWindow]
+Height 1080=497
+Height 1200=1171
+Height 768=732
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAB4AAAASUAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1366=661
+Width 1920=930
+Window-Maximized 1200x1920=true
+Window-Maximized 768x1366=true
+
+[Printing][HeaderFooter]
+FooterBackground=211,211,211
+FooterBackgroundEnabled=false
+FooterEnabled=true
+FooterForeground=0,0,0
+FooterFormatCenter=
+FooterFormatLeft=
+FooterFormatRight=%U
+HeaderBackground=211,211,211
+HeaderBackgroundEnabled=false
+HeaderEnabled=true
+HeaderFooterFont=Noto Sans,10,-1,0,50,0,0,0,0,0
+HeaderForeground=0,0,0
+HeaderFormatCenter=%f
+HeaderFormatLeft=%y
+HeaderFormatRight=%p
+
+[Printing][Layout]
+BackgroundColorEnabled=false
+BoxColor=invalid
+BoxEnabled=false
+BoxMargin=6
+BoxWidth=1
+ColorScheme=Printing
+
+[Printing][Text]
+Legend=false
+LineNumbers=true
+
+[UiSettings]
+ColorScheme=Breeze Dark
+
+[filetree]
+editShade=33,84,111
+listMode=false
+shadingEnabled=true
+showFullPathOnRoots=false
+sortRole=0
+viewShade=66,73,74
+
+[lspclient]
+AutoHover=true
+CompletionDocumentation=true
+Diagnostics=true
+DiagnosticsHighlight=true
+DiagnosticsMark=true
+IncrementalSync=false
+ReferencesDeclaration=true
+ServerConfiguration=file:///usr/bin/clangd
+SymbolDetails=false
+SymbolExpand=true
+SymbolSort=false
+SymbolTree=true
+TypeFormatting=false

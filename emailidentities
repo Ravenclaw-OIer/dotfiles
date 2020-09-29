@@ -1,0 +1,28 @@
+[General]
+Default Identity=1687629702
+
+[Identity #0]
+Attach Vcard=false
+Default Domain=Ubuntu-Chtholly
+Dictionary=American English (United States)
+Disable Fcc=false
+Drafts=15
+Email Address=yzshangs@126.com
+Email Aliases=
+Fcc=9
+Identity=Shu Shang
+Image Location=
+Inline Signature=From Shu Shang with love
+Inlined Html=false
+Name=Shu Shang
+PGP Encryption Key=A20452BE1136237AE2D9D92750B49F176C7EBF58
+PGP Signing Key=A20452BE1136237AE2D9D92750B49F176C7EBF58
+Pgp Auto Encrypt=false
+Pgp Auto Sign=false
+Preferred Crypto Message Format=auto
+Signature Enabled=true
+Signature Type=inline
+Templates=17
+VCardFile=/home/shushang/.local/share/kmail2/Shu Shang.vcf
+X-FaceEnabled=false
+uoid=1687629702

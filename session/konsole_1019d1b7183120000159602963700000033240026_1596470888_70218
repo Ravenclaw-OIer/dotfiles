@@ -1,0 +1,112 @@
+[1]
+Active=10
+Tabs=[{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":1}]},{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":2}]},{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":3}]},{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":4}]},{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":5}]},{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":6}]},{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":7}]},{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":8}]},{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":9}]},{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":10}]},{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":11}]},{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":12}]}]
+
+[Number]
+NumberOfSessions=12
+NumberOfWindows=1
+
+[Session1]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=$HOME/.local/share/konsole/Profile 2.profile
+RemoteTab=(%u) %H
+SessionGuid={aae50b87-be6b-4887-a82f-a93acc0bc356}
+WorkingDir[$e]=$HOME/renpy-7.3.5-sdk
+
+[Session10]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=$HOME/.local/share/konsole/Profile 2.profile
+RemoteTab=(%u) %H
+SessionGuid={72df3c4e-5972-4830-af1f-90d43a45214a}
+WorkingDir[$e]=$HOME/D/chtholly_image/posts
+
+[Session11]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=$HOME/.local/share/konsole/Profile 2.profile
+RemoteTab=(%u) %H
+SessionGuid={f4945701-2854-413c-a0bb-00c8f853a9b3}
+WorkingDir[$e]=$HOME/D/chtholly_image/posts
+
+[Session12]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=$HOME/.local/share/konsole/Profile 2.profile
+RemoteTab=(%u) %H
+SessionGuid={f4a0fd5f-cc09-4ed8-97f7-7e715a54176e}
+WorkingDir[$e]=$HOME/Videos/Synthesizer V Studio Basic/projects/scarboroughfair
+
+[Session2]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=$HOME/.local/share/konsole/Profile 2.profile
+RemoteTab=(%u) %H
+SessionGuid={3df00aa8-b613-4cef-bae1-38c0297883c1}
+WorkingDir[$e]=$HOME/D/nyoron
+
+[Session3]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=$HOME/.local/share/konsole/Profile 2.profile
+RemoteTab=(%u) %H
+SessionGuid={cbebdc86-e173-4493-b313-d9103e8cffc4}
+WorkingDir[$e]=$HOME/D/nyoron
+
+[Session4]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=$HOME/.local/share/konsole/Profile 2.profile
+RemoteTab=(%u) %H
+SessionGuid={99680224-0fa7-4baf-ab0d-faaf0340d838}
+WorkingDir[$e]=$HOME/D/nyoron
+
+[Session5]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=$HOME/.local/share/konsole/Profile 2.profile
+RemoteTab=(%u) %H
+SessionGuid={96c531d5-db3a-4309-9325-a7a968747afc}
+WorkingDir[$e]=$HOME/Code
+
+[Session6]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=$HOME/.local/share/konsole/Profile 2.profile
+RemoteTab=(%u) %H
+SessionGuid={0fcdbdf5-9eb4-47ee-9198-7788ee4037d5}
+WorkingDir[$e]=$HOME/Code/cpeditor.github.io
+
+[Session7]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=$HOME/.local/share/konsole/Profile 2.profile
+RemoteTab=(%u) %H
+SessionGuid={8f0f9c72-4d0c-40fd-b01d-b789881ba635}
+WorkingDir[$e]=$HOME/Code/cpeditor.github.io
+
+[Session8]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=$HOME/.local/share/konsole/Profile 2.profile
+RemoteTab=(%u) %H
+SessionGuid={65cd29cb-e256-44f5-a21d-7e4a907e1be7}
+WorkingDir[$e]=$HOME/ot
+
+[Session9]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=$HOME/.local/share/konsole/Profile 2.profile
+RemoteTab=(%u) %H
+SessionGuid={f9cc1148-f524-4c88-9678-9ba31e2a8ab0}
+WorkingDir[$e]=$HOME/D/chtholly_image
+
+[WindowProperties1]
+ClassName=Konsole::MainWindow
+Height 1200=1172
+MenuBar=Disabled
+ObjectName=MainWindow#1
+State=AAAA/wAAAAD9AAAAAAAAB4AAAASUAAAABAAAAAQAAAAIAAAACPwAAAAA
+ToolBarsMovable=Disabled
+Width 1920=1920

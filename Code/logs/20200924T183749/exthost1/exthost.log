@@ -1,0 +1,24 @@
+[2020-09-24 18:37:52.835] [exthost] [info] extension host started
+[2020-09-24 18:37:52.856] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2020-09-24 18:37:52.856] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-09-24 18:37:52.860] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2020-09-24 18:37:52.860] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-09-24 18:37:52.886] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2020-09-24 18:37:52.886] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2020-09-24 18:37:52.953] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2020-09-24 18:37:52.953] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2020-09-24 18:37:52.962] [exthost] [info] eager extensions activated
+[2020-09-24 18:37:56.840] [exthost] [info] ExtensionService#_doActivateExtension vscode.python {"startup":false,"activationEvent":"onLanguage:python"}
+[2020-09-24 18:37:56.840] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/python/dist/pythonMain
+[2020-09-24 18:37:56.842] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"activationEvent":"onLanguage:python"}
+[2020-09-24 18:37:56.842] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/shushang/.vscode/extensions/ms-python.python-2020.2.64397/out/client/extension
+[2020-09-24 18:37:59.153] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2020-09-24 18:37:59.153] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2020-09-24 18:37:59.162] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2020-09-24 18:37:59.162] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2020-09-24 18:37:59.225] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2020-09-24 18:37:59.225] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2020-09-25 09:53:17.174] [exthost] [info] ExtensionService#_doActivateExtension mtxr.sqltools {"startup":false,"activationEvent":"*"}
+[2020-09-25 09:53:17.174] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/shushang/.vscode/extensions/mtxr.sqltools-0.21.9/extension.js
+[2020-09-25 10:32:00.520] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"activationEvent":"onLanguage:html"}
+[2020-09-25 10:32:00.520] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain

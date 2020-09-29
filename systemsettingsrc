@@ -1,0 +1,36 @@
+[ConfigDialog]
+Height 1200=243
+Width 1920=275
+
+[DownloadDialog Settings]
+Height 1200=472
+Width 1920=700
+
+[KFileDialog Settings]
+Recent Files[$e]=startup.sh,file:///usr/share/sounds/Oxygen-Sys-App-Error-Critical.ogg,file:///usr/share/sounds/Oxygen-Sys-Log-Out.ogg,file:///usr/share/sounds/Oxygen-Sys-Log-In.ogg,file:///usr/share/sounds/Oxygen-Sys-Log-In-Short.ogg,file:///usr/share/sounds/Oxygen-Sys-Log-In-Long.ogg,file:///usr/share/sounds/Oxygen-Sys-Trash-Emptied.ogg,file:///usr/share/sounds/Oxygen-Window-Minimize.ogg,file:///usr/share/sounds/Oxygen-Im-Irc-Event.ogg,file:///usr/share/sounds/Oxygen-Im-Internal-Error.ogg,file:///usr/share/sounds/Oxygen-Im-Highlight-Msg.ogg,file:///usr/share/sounds/Oxygen-Im-Error-On-Connection.ogg,file:///usr/share/sounds/Oxygen-Im-Contact-Out.ogg,file:///usr/share/sounds/Oxygen-Im-Contact-In.ogg,file:///usr/share/sounds/Oxygen-Im-Connection-Lost.ogg,file:///usr/share/sounds/Oxygen-Im-Cant-Connect.ogg
+Recent URLs[$e]=file:///usr/share/sounds/
+detailViewIconSize=0
+
+[KPropertiesDialog]
+Height 1200=437
+Height 768=437
+Width 1366=406
+Width 1920=406
+
+[MainWindow]
+Height 1080=1052
+Height 1200=1172
+Height 1920=700
+Height 768=740
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAQ4AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1200=1200
+Width 1366=1305
+Width 1920=1859
+Window-Maximized 1080x1920=true
+Window-Maximized 768x1366=true
+
+[Open-with settings]
+CompletionMode=1
+History=/usr/bin/startup,/home/shushang/Desktop/startup.sh

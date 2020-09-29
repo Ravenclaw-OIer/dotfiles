@@ -1,0 +1,45 @@
+[CompactMode]
+FontWeight=50
+
+[DetailsMode]
+FontWeight=50
+
+[General]
+Version=200
+ViewPropsTimestamp=2020,5,1,21,57,9
+
+[IconsMode]
+FontWeight=50
+PreviewSize=80
+
+[KPropertiesDialog]
+Height 1200=433
+Width 1920=363
+Window-Maximized 1080x1920=true
+
+[MainWindow]
+Height 1080=1052
+Height 1200=1172
+Height 768=740
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAwAAAAAAAAC4AAAD9vwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAoBAAAD+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAmAAAD9gAAAF0BAAADAAAAAQAAAAAAAAAA/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAAD/////AAAACgEAAAMAAAADAAAAAAAAAAD8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAA/////wAAAAoBAAADAAAGigAAA/YAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+Width 1366=1366
+Width 1920=1859
+Window-Maximized 1080x1920=true
+Window-Maximized 1200x1920=true
+Window-Maximized 768x1366=true
+
+[Open-with settings]
+CompletionMode=1
+History=ark
+
+[PreviewSettings]
+Plugins=audiothumbnail,blenderthumbnail,comicbookthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,directorythumbnail,fontthumbnail,imagethumbnail,jpegthumbnail,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,mltpreview,opendocumentthumbnail,gsthumbnail,rawthumbnail,svgthumbnail,ffmpegthumbs
+
+[Search]
+Location=Everywhere
+
+[SettingsDialog]
+Height 1200=429
+Width 1920=540

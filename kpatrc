@@ -1,0 +1,14 @@
+[KgTheme]
+Theme=themes/greenblaze.desktop
+
+[MainWindow]
+State=AAAA/wAAAAD9AAAAAAAAA7wAAAHDAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[Scores]
+loosestreak15=1
+maxloosestreak15=1
+maxwinstreak15=0
+total15=1
+winstreak15=0
+won15=0

@@ -1,0 +1,74 @@
+wq
+toggle pl-sort(id)
+pl-sort(id)
+toggle pl-sort
+pl-sort
+add /home/shushang/Videos/Synthesizer V Studio Basic/projects/tuiyi/first-version_MixDown.wav
+shell cool-retro-term
+shell man cmus
+HELP
+shell netease-cloud-music
+add -p Orangestar,IA - アスノヨゾラ哨戒班.mp3
+add -p *班
+pwd
+cd Music/CloudMusic/
+add -p Music/CloudMusic/orangestar/
+add Music/CloudMusic/orangestar/ -p
+add
+add -p Orangestar orangestar/
+add -p orangestar/ Orangestar
+add -p orangestar/
+pl-create Orangestar
+add -p ./orangestar
+add -p ./Orangestar*
+add -p 
+shell ls
+add -l /home/shushang/Music
+help
+add -p /home/shushang/Music/Evan Call/TVアニメ『ヴァイオレット・エヴァーガーデン』オリジナルサウンドトラック (紫罗兰永恒花园 动画原声带)/16 - Those Words You Spoke to Me.mp3
+add -p VE
+toggle mouse
+toggle continue
+set continue
+set continue true
+pl-rename VE
+toggle remaining_time
+pl-remove
+del
+rm
+remove
+add -p ~/Music/Evan Call/TVアニメ『ヴァイオレット・エヴァーガーデン』オリジナルサウンドトラック (紫罗兰永恒花园 动画原声带)
+add -p "/home/shushang/Music/Evan Call/TVアニメ『ヴァイオレット・エヴァーガーデン』オリジナルサウンドトラック (紫罗兰永恒花园 动画原声带)"
+add -p "~/Music/Evan Call/TVアニメ『ヴァイオレット・エヴァーガーデン』オリジナルサウンドトラック (紫罗兰永恒花园 动画原声带)"
+add -p "~/Music/Evan Call"
+add ~/Music/Evan\ Call -p
+toggle repeatcurrent
+toggle
+toggle current
+toggle repeat
+bind library a seek -1
+bind common e seek -1
+bind common f seek -1
+bind common s seek -1
+bind common a seek -1
+bind common d seek +1
+bind d seek + 1
+bind right seek +1
+bind
+player-pause
+p
+pause
+ls
+config
+delete
+d
+a .
+refresh
+shell rm -rf Unknown/
+toggle repeat_current
+set-volume 60
+vol 6
+vol 60
+b
+back
+a ~/Music

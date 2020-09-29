@@ -1,0 +1,84 @@
+[ActionsWidget]
+ColumnState=AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAboAAAACAQAAAQAAAAAAAAAAAAAAAGT/////AAAAgQAAAAAAAAACAAAA+gAAAAEAAAAAAAAAwAAAAAEAAAAAAAAD6AAAAABk
+
+[ConfigDialog]
+Height 1200=463
+Width 1920=583
+
+[DownloadDialog Settings]
+Height 1080=472
+Height 768=472
+Width 1366=700
+Width 1920=700
+
+[General]
+Number of Actions=0
+
+[KFileDialog Settings]
+Recent Files[$e]=sukasuka__04.jpg,file:$HOME/Desktop/sukasuka__04.jpg
+Recent URLs[$e]=file:$HOME/Pictures/
+detailViewIconSize=0
+
+[Notification Messages]
+really_clear_history=true
+
+[Open-with settings]
+CompletionMode=1
+History=kden
+
+[PlasmaRunnerManager]
+LaunchCounts=4 services_kcm_style.desktop,12 services_systemsettings.desktop,1 services_renpy.desktop,1 services_anbox_appmgr.desktop,2 services_org.kde.kinfocenter.desktop,1 services_software-properties-gtk.desktop,5 services_telegramdesktop.desktop,1 shell_firefox,3 services_libreoffice-calc.desktop,3 services_about-distro.desktop,4 services_org.kde.latte-dock.desktop,3 services_org.kde.kdenlive.desktop,7 services_org.kde.elisa.desktop,1 services_org.gnome.Calculator.desktop,1 services_baidunetdisk.desktop,4 services_pycharm-community_pycharm-community.desktop,1 shell_latte-dock --replace,1 services_wine-Programs-U T A U-UTAU - 歌声合成ツール.desktop,1 services_kcm_kscreen.desktop,2 services_bluedevilglobal.desktop,4 services_netease-cloud-music.desktop,2 services_qq.desktop,1 shell_elisa,2 services_org.gnome.Nautilus.desktop,2 services_wps-office-wpp.desktop,1 services_audacity.desktop,3 services_bluedeviladapters.desktop,1 services_gnome-clocks_gnome-clocks.desktop,1 shell_firefox https://github.com,1 services_moeditor.desktop,1 services_gnome-calculator_gnome-calculator.desktop,18 services_firefox.desktop,1 services_org.kde.kalarm.desktop,3 services_code.desktop,8 services_org.qt-project.qtcreator.desktop,1 services_org.kde.kdevelop.desktop,1 places_file:///home/shushang,6 services_org.kde.dolphin.desktop,3 services_wps-office-prometheus.desktop,5 services_org.kde.kcalc.desktop,2 services_clementine.desktop,3 services_libreoffice-impress.desktop,2 services_org.kde.ksysguard.desktop,3 services_gnome-system-monitor_gnome-system-monitor.desktop,1 services_texmaker.desktop,3 services_gparted.desktop,1 services_org.kde.kile.desktop,2 services_filetypes.desktop,1 services_cocomusic.desktop,1 services_org.kde.partitionmanager.desktop,5 services_thunderbird.desktop,5 services_libreoffice-writer.desktop,1 services_kcm_plasmasearch.desktop,4 services_code_code.desktop,5 services_virtualbox.desktop,1 shell_kate,1 services_componentchooser.desktop,4 services_bluedevildevices.desktop,3 services_org.kde.spectacle.desktop,1 services_powerdevilactivitiesconfig.desktop,8 services_org.kde.kate.desktop
+pluginWhiteList=desktopsessions,services,places,PowerDevil,calculator,unitconverter,shell,bookmarks,recentdocuments,locations,baloosearch
+
+[PlasmaViews][Panel 24][Defaults]
+thickness=36
+
+[PlasmaViews][Panel 24][Horizontal1366]
+thickness=36
+
+[PlasmaViews][Panel 24][Horizontal1920]
+thickness=36
+
+[PlasmaViews][Panel 3][Defaults]
+thickness=36
+
+[PlasmaViews][Panel 3][Horizontal1920]
+thickness=36
+
+[PlasmaViews][Panel 47][Defaults]
+thickness=32
+
+[PlasmaViews][Panel 47][Horizontal1920]
+thickness=32
+
+[PlasmaViews][Panel 72][Defaults]
+thickness=24
+
+[PlasmaViews][Panel 72][Horizontal1920]
+thickness=24
+
+[PlasmaViews][Panel 73]
+alignment=2
+
+[PlasmaViews][Panel 73][Defaults]
+maxLength=1920
+minLength=1305
+thickness=28
+
+[PlasmaViews][Panel 73][Horizontal1366]
+minLength=1305
+thickness=28
+
+[PlasmaViews][Panel 73][Horizontal1920]
+maxLength=1920
+minLength=1859
+thickness=28
+
+[ScreenConnectors]
+0=DP-1
+1=:1.0
+2=eDP-1
+3=:0.0
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js

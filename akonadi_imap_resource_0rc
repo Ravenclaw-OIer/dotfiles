@@ -1,0 +1,10 @@
+[cache]
+TrashCollectionMigrated=true
+
+[idle]
+IdleRidPath=/INBOX,imap://yzshangs@126.com@imap.126.com/
+
+[network]
+Authentication=7
+ImapServer=imap.126.com
+UserName=yzshangs@126.com

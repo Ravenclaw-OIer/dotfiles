@@ -1,0 +1,30 @@
+[Print Settings]
+cover-after=none
+print-at=now
+cups-InputSlot=Default
+print-at-time=
+duplex=simplex
+cups-Duplex=None
+cups-job-sheets=none,none
+evince-print-setting-page-size=false
+cups-ColorModel=Color
+evince-print-setting-page-scale=1
+cups-job-priority=50
+default-source=Default
+cups-PrintoutMode=Normal
+evince-print-setting-page-autorotate=true
+cups-PrinterResolution=FromPrintoutMode
+cover-before=none
+printer=CM7110W-CM7120W
+cups-number-up=1
+
+[Page Setup]
+PPDName=A4
+DisplayName=A4
+Width=210
+Height=297
+MarginTop=6.3499999999999996
+MarginBottom=14.224
+MarginLeft=6.3499999999999996
+MarginRight=6.3499999999999996
+Orientation=portrait
